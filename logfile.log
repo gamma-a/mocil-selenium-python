@@ -1,0 +1,629 @@
+2024-10-02 09:44:47,179 : INFO : test_Homepage_01 : Start executing Test Case Homepage - 01
+2024-10-02 09:44:47,200 : INFO : test_Homepage_01 : Mocil Logo - Header exist
+2024-10-02 09:44:47,212 : INFO : test_Homepage_01 : Search Box - Header exist
+2024-10-02 09:44:47,226 : INFO : test_Homepage_01 : Hamburger Menu exist
+2024-10-02 09:44:47,238 : INFO : test_Homepage_01 : Penumpang Button exist
+2024-10-02 09:44:47,250 : INFO : test_Homepage_01 : Niaga Button exist
+2024-10-02 09:44:47,265 : INFO : test_Homepage_01 : Tukar Tambah Button exist
+2024-10-02 09:44:47,279 : INFO : test_Homepage_01 : Favorit Button exist
+2024-10-02 09:44:47,289 : INFO : test_Homepage_01 : Advance Filter exist
+2024-10-02 09:44:47,289 : INFO : test_Homepage_01 : Done checking header element availability
+2024-10-02 09:44:47,296 : INFO : test_Homepage_02 : Start executing Test Case Homepage - 02
+2024-10-02 09:44:47,308 : INFO : test_Homepage_02 : Main Banner exist
+2024-10-02 09:44:47,325 : INFO : test_Homepage_02 : Mobil Harga Miring Menu exist
+2024-10-02 09:44:47,338 : INFO : test_Homepage_02 : Cicilan Murah Menu exist
+2024-10-02 09:44:47,348 : INFO : test_Homepage_02 : DP Rendah Menu exist
+2024-10-02 09:44:47,359 : INFO : test_Homepage_02 : Promo Menu exist
+2024-10-02 09:44:47,369 : INFO : test_Homepage_02 : Simulasi Menu exist
+2024-10-02 09:44:47,379 : INFO : test_Homepage_02 : Tukar Tambah Menu exist
+2024-10-02 09:44:47,389 : INFO : test_Homepage_02 : WA Floating Button exist
+2024-10-02 09:44:47,389 : INFO : test_Homepage_02 : Done checking main banner and kategori menu element availability
+2024-10-02 09:44:47,395 : INFO : test_Homepage_03 : Start executing Test Case Homepage - 03
+2024-10-02 09:44:47,404 : INFO : test_Homepage_03 : Mocil Logo - Footer exist
+2024-10-02 09:44:47,414 : INFO : test_Homepage_03 : Link to Blog exist
+2024-10-02 09:44:47,424 : INFO : test_Homepage_03 : Link to Daftar Mitra Mocil exist
+2024-10-02 09:44:47,434 : INFO : test_Homepage_03 : Link to FAQ exist
+2024-10-02 09:44:47,444 : INFO : test_Homepage_03 : Link to Kebijakan Privasi exist
+2024-10-02 09:44:47,454 : INFO : test_Homepage_03 : Link to Tentang Mocil exist
+2024-10-02 09:44:47,463 : INFO : test_Homepage_03 : Link to Syarat dan ketentuan exist
+2024-10-02 09:44:47,475 : INFO : test_Homepage_03 : Link to Hak Cipta exist
+2024-10-02 09:44:47,484 : INFO : test_Homepage_03 : Link to Karir exist
+2024-10-02 09:44:47,494 : INFO : test_Homepage_03 : Link to Facebook exist
+2024-10-02 09:44:47,504 : INFO : test_Homepage_03 : Link to Twitter exist
+2024-10-02 09:44:47,513 : INFO : test_Homepage_03 : Link to Instagram exist
+2024-10-02 09:44:47,513 : INFO : test_Homepage_03 : Done checking footer element availability
+2024-10-02 09:44:47,521 : INFO : test_Homepage_04 : Start executing Test Case Homepage - 04
+2024-10-02 09:44:47,545 : INFO : test_Homepage_04 : The mocil_logo has <H1> tag
+2024-10-02 09:44:47,550 : INFO : test_Homepage_05 : Start executing Test Case Homepage - 05
+2024-10-02 09:44:47,563 : INFO : test_Homepage_05 : The mobil_bekas_pilihan_title has <H1> tag
+2024-10-02 09:44:47,567 : INFO : test_Homepage_06 : Start executing Test Case Homepage - 06
+2024-10-02 09:44:47,581 : INFO : test_Homepage_06 : The deskripsi_car_list has <H3> tag
+2024-10-02 09:44:47,588 : INFO : test_Homepage_07 : Start executing Test Case Homepage - 07
+2024-10-02 09:44:47,635 : INFO : test_Homepage_07 : The Mobil Harga Miring Menu Title has an <H4> tag
+2024-10-02 09:44:47,642 : INFO : test_Homepage_07 : The Cicilan Murah Menu Title has an <H4> tag
+2024-10-02 09:44:47,649 : INFO : test_Homepage_07 : The DP Rendah Menu Title has an <H4> tag
+2024-10-02 09:44:47,655 : INFO : test_Homepage_07 : The Promo Menu Title has an <H4> tag
+2024-10-02 09:44:47,661 : INFO : test_Homepage_07 : The Simulasi Menu Title has an <H4> tag
+2024-10-02 09:44:47,667 : INFO : test_Homepage_07 : The Tukar Tambah Menu Title has an <H4> tag
+2024-10-02 09:48:27,558 : INFO : test_Homepage_01 : Start executing Test Case Homepage - 01
+2024-10-02 09:48:27,580 : INFO : test_Homepage_01 : Mocil Logo - Header exist
+2024-10-02 09:48:27,592 : INFO : test_Homepage_01 : Search Box - Header exist
+2024-10-02 09:48:27,602 : INFO : test_Homepage_01 : Hamburger Menu exist
+2024-10-02 09:48:27,616 : INFO : test_Homepage_01 : Penumpang Button exist
+2024-10-02 09:48:27,627 : INFO : test_Homepage_01 : Niaga Button exist
+2024-10-02 09:48:27,645 : INFO : test_Homepage_01 : Tukar Tambah Button exist
+2024-10-02 09:48:27,659 : INFO : test_Homepage_01 : Favorit Button exist
+2024-10-02 09:48:27,672 : INFO : test_Homepage_01 : Advance Filter exist
+2024-10-02 09:48:27,673 : INFO : test_Homepage_01 : Done checking header element availability
+2024-10-02 09:48:27,684 : INFO : test_Homepage_02 : Start executing Test Case Homepage - 02
+2024-10-02 09:48:27,694 : INFO : test_Homepage_02 : Main Banner exist
+2024-10-02 09:48:27,704 : INFO : test_Homepage_02 : Mobil Harga Miring Menu exist
+2024-10-02 09:48:27,714 : INFO : test_Homepage_02 : Cicilan Murah Menu exist
+2024-10-02 09:48:27,723 : INFO : test_Homepage_02 : DP Rendah Menu exist
+2024-10-02 09:48:27,732 : INFO : test_Homepage_02 : Promo Menu exist
+2024-10-02 09:48:27,741 : INFO : test_Homepage_02 : Simulasi Menu exist
+2024-10-02 09:48:27,751 : INFO : test_Homepage_02 : Tukar Tambah Menu exist
+2024-10-02 09:48:27,760 : INFO : test_Homepage_02 : WA Floating Button exist
+2024-10-02 09:48:27,760 : INFO : test_Homepage_02 : Done checking main banner and kategori menu element availability
+2024-10-02 09:48:27,765 : INFO : test_Homepage_03 : Start executing Test Case Homepage - 03
+2024-10-02 09:48:27,776 : INFO : test_Homepage_03 : Mocil Logo - Footer exist
+2024-10-02 09:48:27,785 : INFO : test_Homepage_03 : Link to Blog exist
+2024-10-02 09:48:27,795 : INFO : test_Homepage_03 : Link to Daftar Mitra Mocil exist
+2024-10-02 09:48:27,804 : INFO : test_Homepage_03 : Link to FAQ exist
+2024-10-02 09:48:27,814 : INFO : test_Homepage_03 : Link to Kebijakan Privasi exist
+2024-10-02 09:48:27,823 : INFO : test_Homepage_03 : Link to Tentang Mocil exist
+2024-10-02 09:48:27,833 : INFO : test_Homepage_03 : Link to Syarat dan ketentuan exist
+2024-10-02 09:48:27,844 : INFO : test_Homepage_03 : Link to Hak Cipta exist
+2024-10-02 09:48:27,853 : INFO : test_Homepage_03 : Link to Karir exist
+2024-10-02 09:48:27,864 : INFO : test_Homepage_03 : Link to Facebook exist
+2024-10-02 09:48:27,877 : INFO : test_Homepage_03 : Link to Twitter exist
+2024-10-02 09:48:27,889 : INFO : test_Homepage_03 : Link to Instagram exist
+2024-10-02 09:48:27,889 : INFO : test_Homepage_03 : Done checking footer element availability
+2024-10-02 09:48:27,896 : INFO : test_Homepage_04 : Start executing Test Case Homepage - 04
+2024-10-02 09:48:27,925 : INFO : test_Homepage_04 : The mocil_logo has <H1> tag
+2024-10-02 09:48:27,933 : INFO : test_Homepage_05 : Start executing Test Case Homepage - 05
+2024-10-02 09:48:27,950 : INFO : test_Homepage_05 : The mobil_bekas_pilihan_title has <H1> tag
+2024-10-02 09:48:27,957 : INFO : test_Homepage_06 : Start executing Test Case Homepage - 06
+2024-10-02 09:48:27,974 : INFO : test_Homepage_06 : The deskripsi_car_list has <H3> tag
+2024-10-02 09:48:27,980 : INFO : test_Homepage_07 : Start executing Test Case Homepage - 07
+2024-10-02 09:48:28,037 : INFO : test_Homepage_07 : The Mobil Harga Miring Menu Title has an <H4> tag
+2024-10-02 09:48:28,043 : INFO : test_Homepage_07 : The Cicilan Murah Menu Title has an <H4> tag
+2024-10-02 09:48:28,053 : INFO : test_Homepage_07 : The DP Rendah Menu Title has an <H4> tag
+2024-10-02 09:48:28,059 : INFO : test_Homepage_07 : The Promo Menu Title has an <H4> tag
+2024-10-02 09:48:28,068 : INFO : test_Homepage_07 : The Simulasi Menu Title has an <H4> tag
+2024-10-02 09:48:28,075 : INFO : test_Homepage_07 : The Tukar Tambah Menu Title has an <H4> tag
+2024-10-02 09:52:11,940 : INFO : test_Homepage_01 : Start executing Test Case Homepage - 01
+2024-10-02 09:52:11,951 : INFO : test_Homepage_01 : Mocil Logo - Header exist
+2024-10-02 09:52:11,982 : INFO : test_Homepage_01 : Search Box - Header exist
+2024-10-02 09:52:11,994 : INFO : test_Homepage_01 : Hamburger Menu exist
+2024-10-02 09:52:12,003 : INFO : test_Homepage_01 : Penumpang Button exist
+2024-10-02 09:52:12,014 : INFO : test_Homepage_01 : Niaga Button exist
+2024-10-02 09:52:12,028 : INFO : test_Homepage_01 : Tukar Tambah Button exist
+2024-10-02 09:52:12,041 : INFO : test_Homepage_01 : Favorit Button exist
+2024-10-02 09:52:12,054 : INFO : test_Homepage_01 : Advance Filter exist
+2024-10-02 09:52:12,054 : INFO : test_Homepage_01 : Done checking header element availability
+2024-10-02 09:52:12,061 : INFO : test_Homepage_02 : Start executing Test Case Homepage - 02
+2024-10-02 09:52:12,075 : INFO : test_Homepage_02 : Main Banner exist
+2024-10-02 09:52:12,086 : INFO : test_Homepage_02 : Mobil Harga Miring Menu exist
+2024-10-02 09:52:12,101 : INFO : test_Homepage_02 : Cicilan Murah Menu exist
+2024-10-02 09:52:12,116 : INFO : test_Homepage_02 : DP Rendah Menu exist
+2024-10-02 09:52:12,128 : INFO : test_Homepage_02 : Promo Menu exist
+2024-10-02 09:52:12,140 : INFO : test_Homepage_02 : Simulasi Menu exist
+2024-10-02 09:52:12,153 : INFO : test_Homepage_02 : Tukar Tambah Menu exist
+2024-10-02 09:52:12,166 : INFO : test_Homepage_02 : WA Floating Button exist
+2024-10-02 09:52:12,166 : INFO : test_Homepage_02 : Done checking main banner and kategori menu element availability
+2024-10-02 09:52:12,174 : INFO : test_Homepage_03 : Start executing Test Case Homepage - 03
+2024-10-02 09:52:12,189 : INFO : test_Homepage_03 : Mocil Logo - Footer exist
+2024-10-02 09:52:12,210 : INFO : test_Homepage_03 : Link to Blog exist
+2024-10-02 09:52:12,221 : INFO : test_Homepage_03 : Link to Daftar Mitra Mocil exist
+2024-10-02 09:52:12,229 : INFO : test_Homepage_03 : Link to FAQ exist
+2024-10-02 09:52:12,241 : INFO : test_Homepage_03 : Link to Kebijakan Privasi exist
+2024-10-02 09:52:12,256 : INFO : test_Homepage_03 : Link to Tentang Mocil exist
+2024-10-02 09:52:12,277 : INFO : test_Homepage_03 : Link to Syarat dan ketentuan exist
+2024-10-02 09:52:12,287 : INFO : test_Homepage_03 : Link to Hak Cipta exist
+2024-10-02 09:52:12,299 : INFO : test_Homepage_03 : Link to Karir exist
+2024-10-02 09:52:12,310 : INFO : test_Homepage_03 : Link to Facebook exist
+2024-10-02 09:52:12,320 : INFO : test_Homepage_03 : Link to Twitter exist
+2024-10-02 09:52:12,330 : INFO : test_Homepage_03 : Link to Instagram exist
+2024-10-02 09:52:12,330 : INFO : test_Homepage_03 : Done checking footer element availability
+2024-10-02 09:52:12,336 : INFO : test_Homepage_04 : Start executing Test Case Homepage - 04
+2024-10-02 09:52:12,358 : INFO : test_Homepage_04 : The mocil_logo has <H1> tag
+2024-10-02 09:52:12,363 : INFO : test_Homepage_05 : Start executing Test Case Homepage - 05
+2024-10-02 09:52:12,376 : INFO : test_Homepage_05 : The mobil_bekas_pilihan_title has <H1> tag
+2024-10-02 09:52:12,381 : INFO : test_Homepage_06 : Start executing Test Case Homepage - 06
+2024-10-02 09:52:12,394 : INFO : test_Homepage_06 : The deskripsi_car_list has <H3> tag
+2024-10-02 09:52:12,400 : INFO : test_Homepage_07 : Start executing Test Case Homepage - 07
+2024-10-02 09:52:12,449 : INFO : test_Homepage_07 : The Mobil Harga Miring Menu Title has an <H4> tag
+2024-10-02 09:52:12,456 : INFO : test_Homepage_07 : The Cicilan Murah Menu Title has an <H4> tag
+2024-10-02 09:52:12,462 : INFO : test_Homepage_07 : The DP Rendah Menu Title has an <H4> tag
+2024-10-02 09:52:12,468 : INFO : test_Homepage_07 : The Promo Menu Title has an <H4> tag
+2024-10-02 09:52:12,474 : INFO : test_Homepage_07 : The Simulasi Menu Title has an <H4> tag
+2024-10-02 09:52:12,481 : INFO : test_Homepage_07 : The Tukar Tambah Menu Title has an <H4> tag
+2024-10-02 09:55:41,749 : INFO : test_Homepage_01 : Start executing Test Case Homepage - 01
+2024-10-02 09:55:41,762 : INFO : test_Homepage_01 : Mocil Logo - Header exist
+2024-10-02 09:55:41,773 : INFO : test_Homepage_01 : Search Box - Header exist
+2024-10-02 09:55:41,786 : INFO : test_Homepage_01 : Hamburger Menu exist
+2024-10-02 09:55:41,800 : INFO : test_Homepage_01 : Penumpang Button exist
+2024-10-02 09:55:41,815 : INFO : test_Homepage_01 : Niaga Button exist
+2024-10-02 09:55:41,827 : INFO : test_Homepage_01 : Tukar Tambah Button exist
+2024-10-02 09:55:41,839 : INFO : test_Homepage_01 : Favorit Button exist
+2024-10-02 09:55:41,852 : INFO : test_Homepage_01 : Advance Filter exist
+2024-10-02 09:55:41,852 : INFO : test_Homepage_01 : Done checking header element availability
+2024-10-02 09:55:41,859 : INFO : test_Homepage_02 : Start executing Test Case Homepage - 02
+2024-10-02 09:55:41,871 : INFO : test_Homepage_02 : Main Banner exist
+2024-10-02 09:55:41,885 : INFO : test_Homepage_02 : Mobil Harga Miring Menu exist
+2024-10-02 09:55:41,897 : INFO : test_Homepage_02 : Cicilan Murah Menu exist
+2024-10-02 09:55:41,909 : INFO : test_Homepage_02 : DP Rendah Menu exist
+2024-10-02 09:55:41,922 : INFO : test_Homepage_02 : Promo Menu exist
+2024-10-02 09:55:41,933 : INFO : test_Homepage_02 : Simulasi Menu exist
+2024-10-02 09:55:41,944 : INFO : test_Homepage_02 : Tukar Tambah Menu exist
+2024-10-02 09:55:41,954 : INFO : test_Homepage_02 : WA Floating Button exist
+2024-10-02 09:55:41,955 : INFO : test_Homepage_02 : Done checking main banner and kategori menu element availability
+2024-10-02 09:55:41,967 : INFO : test_Homepage_03 : Start executing Test Case Homepage - 03
+2024-10-02 09:55:41,978 : INFO : test_Homepage_03 : Mocil Logo - Footer exist
+2024-10-02 09:55:41,991 : INFO : test_Homepage_03 : Link to Blog exist
+2024-10-02 09:55:42,001 : INFO : test_Homepage_03 : Link to Daftar Mitra Mocil exist
+2024-10-02 09:55:42,013 : INFO : test_Homepage_03 : Link to FAQ exist
+2024-10-02 09:55:42,025 : INFO : test_Homepage_03 : Link to Kebijakan Privasi exist
+2024-10-02 09:55:42,035 : INFO : test_Homepage_03 : Link to Tentang Mocil exist
+2024-10-02 09:55:42,045 : INFO : test_Homepage_03 : Link to Syarat dan ketentuan exist
+2024-10-02 09:55:42,057 : INFO : test_Homepage_03 : Link to Hak Cipta exist
+2024-10-02 09:55:42,067 : INFO : test_Homepage_03 : Link to Karir exist
+2024-10-02 09:55:42,077 : INFO : test_Homepage_03 : Link to Facebook exist
+2024-10-02 09:55:42,088 : INFO : test_Homepage_03 : Link to Twitter exist
+2024-10-02 09:55:42,099 : INFO : test_Homepage_03 : Link to Instagram exist
+2024-10-02 09:55:42,099 : INFO : test_Homepage_03 : Done checking footer element availability
+2024-10-02 09:55:42,108 : INFO : test_Homepage_04 : Start executing Test Case Homepage - 04
+2024-10-02 09:55:42,145 : INFO : test_Homepage_04 : The mocil_logo has <H1> tag
+2024-10-02 09:55:42,150 : INFO : test_Homepage_05 : Start executing Test Case Homepage - 05
+2024-10-02 09:55:42,166 : INFO : test_Homepage_05 : The mobil_bekas_pilihan_title has <H1> tag
+2024-10-02 09:55:42,172 : INFO : test_Homepage_06 : Start executing Test Case Homepage - 06
+2024-10-02 09:55:42,195 : INFO : test_Homepage_06 : The deskripsi_car_list has <H3> tag
+2024-10-02 09:55:42,207 : INFO : test_Homepage_07 : Start executing Test Case Homepage - 07
+2024-10-02 09:55:42,256 : INFO : test_Homepage_07 : The Mobil Harga Miring Menu Title has an <H4> tag
+2024-10-02 09:55:42,263 : INFO : test_Homepage_07 : The Cicilan Murah Menu Title has an <H4> tag
+2024-10-02 09:55:42,269 : INFO : test_Homepage_07 : The DP Rendah Menu Title has an <H4> tag
+2024-10-02 09:55:42,275 : INFO : test_Homepage_07 : The Promo Menu Title has an <H4> tag
+2024-10-02 09:55:42,281 : INFO : test_Homepage_07 : The Simulasi Menu Title has an <H4> tag
+2024-10-02 09:55:42,288 : INFO : test_Homepage_07 : The Tukar Tambah Menu Title has an <H4> tag
+2024-10-02 10:00:04,993 : INFO : test_Homepage_02 : Start executing Test Case Homepage - 02
+2024-10-02 10:00:05,006 : INFO : test_Homepage_02 : Main Banner exist
+2024-10-02 10:00:05,024 : INFO : test_Homepage_02 : Mobil Harga Miring Menu exist
+2024-10-02 10:00:05,037 : INFO : test_Homepage_02 : Cicilan Murah Menu exist
+2024-10-02 10:00:05,050 : INFO : test_Homepage_02 : DP Rendah Menu exist
+2024-10-02 10:00:05,072 : INFO : test_Homepage_02 : Promo Menu exist
+2024-10-02 10:00:05,083 : INFO : test_Homepage_02 : Simulasi Menu exist
+2024-10-02 10:00:05,093 : INFO : test_Homepage_02 : Tukar Tambah Menu exist
+2024-10-02 10:00:05,102 : INFO : test_Homepage_02 : WA Floating Button exist
+2024-10-02 10:00:05,102 : INFO : test_Homepage_02 : Done checking main banner and kategori menu element availability
+2024-10-02 10:32:28,241 : INFO : test_Homepage_07 : Start executing Test Case Homepage - 07
+2024-10-02 10:32:28,332 : INFO : test_Homepage_07 : The Mobil Harga Miring Menu Title has an <H4> tag
+2024-10-02 10:32:28,342 : INFO : test_Homepage_07 : The Cicilan Murah Menu Title has an <H4> tag
+2024-10-02 10:32:28,350 : INFO : test_Homepage_07 : The DP Rendah Menu Title has an <H4> tag
+2024-10-02 10:32:28,358 : INFO : test_Homepage_07 : The Promo Menu Title has an <H4> tag
+2024-10-02 10:32:28,369 : INFO : test_Homepage_07 : The Simulasi Menu Title has an <H4> tag
+2024-10-02 10:32:28,375 : INFO : test_Homepage_07 : The Tukar Tambah Menu Title has an <H4> tag
+2024-10-02 10:32:28,381 : INFO : test_Homepage_06 : Start executing Test Case Homepage - 06
+2024-10-02 10:32:28,395 : INFO : test_Homepage_06 : The deskripsi_car_list has <H3> tag
+2024-10-02 10:32:28,401 : INFO : test_Homepage_05 : Start executing Test Case Homepage - 05
+2024-10-02 10:32:28,415 : INFO : test_Homepage_05 : The mobil_bekas_pilihan_title has <H1> tag
+2024-10-02 10:32:28,420 : INFO : test_Homepage_04 : Start executing Test Case Homepage - 04
+2024-10-02 10:32:28,443 : INFO : test_Homepage_04 : The mocil_logo has <H1> tag
+2024-10-02 10:32:28,448 : INFO : test_Homepage_03 : Start executing Test Case Homepage - 03
+2024-10-02 10:32:28,458 : INFO : test_Homepage_03 : Mocil Logo - Footer exist
+2024-10-02 10:32:28,468 : INFO : test_Homepage_03 : Link to Blog exist
+2024-10-02 10:32:28,478 : INFO : test_Homepage_03 : Link to Daftar Mitra Mocil exist
+2024-10-02 10:32:28,486 : INFO : test_Homepage_03 : Link to FAQ exist
+2024-10-02 10:32:28,499 : INFO : test_Homepage_03 : Link to Kebijakan Privasi exist
+2024-10-02 10:32:28,513 : INFO : test_Homepage_03 : Link to Tentang Mocil exist
+2024-10-02 10:32:28,523 : INFO : test_Homepage_03 : Link to Syarat dan ketentuan exist
+2024-10-02 10:32:28,533 : INFO : test_Homepage_03 : Link to Hak Cipta exist
+2024-10-02 10:32:28,543 : INFO : test_Homepage_03 : Link to Karir exist
+2024-10-02 10:32:28,554 : INFO : test_Homepage_03 : Link to Facebook exist
+2024-10-02 10:32:28,564 : INFO : test_Homepage_03 : Link to Twitter exist
+2024-10-02 10:32:28,572 : INFO : test_Homepage_03 : Link to Instagram exist
+2024-10-02 10:32:28,572 : INFO : test_Homepage_03 : Done checking footer element availability
+2024-10-02 10:32:28,578 : INFO : test_Homepage_02 : Start executing Test Case Homepage - 02
+2024-10-02 10:32:28,589 : INFO : test_Homepage_02 : Main Banner exist
+2024-10-02 10:32:28,595 : INFO : test_Homepage_02 : Mobil Harga Miring Menu exist
+2024-10-02 10:32:28,603 : INFO : test_Homepage_02 : Cicilan Murah Menu exist
+2024-10-02 10:32:28,608 : INFO : test_Homepage_02 : DP Rendah Menu exist
+2024-10-02 10:32:28,615 : INFO : test_Homepage_02 : Promo Menu exist
+2024-10-02 10:32:28,622 : INFO : test_Homepage_02 : Simulasi Menu exist
+2024-10-02 10:32:28,629 : INFO : test_Homepage_02 : Tukar Tambah Menu exist
+2024-10-02 10:32:28,638 : INFO : test_Homepage_02 : WA Floating Button exist
+2024-10-02 10:32:28,638 : INFO : test_Homepage_02 : Done checking main banner and kategori menu element availability
+2024-10-02 10:32:28,643 : INFO : test_Homepage_01 : Start executing Test Case Homepage - 01
+2024-10-02 10:32:28,650 : INFO : test_Homepage_01 : Mocil Logo - Header exist
+2024-10-02 10:32:28,661 : INFO : test_Homepage_01 : Search Box - Header exist
+2024-10-02 10:32:28,672 : INFO : test_Homepage_01 : Hamburger Menu exist
+2024-10-02 10:32:28,684 : INFO : test_Homepage_01 : Penumpang Button exist
+2024-10-02 10:32:28,697 : INFO : test_Homepage_01 : Niaga Button exist
+2024-10-02 10:32:28,708 : INFO : test_Homepage_01 : Tukar Tambah Button exist
+2024-10-02 10:32:28,720 : INFO : test_Homepage_01 : Favorit Button exist
+2024-10-02 10:32:28,729 : INFO : test_Homepage_01 : Advance Filter exist
+2024-10-02 10:32:28,730 : INFO : test_Homepage_01 : Done checking header element availability
+2024-10-02 10:33:16,225 : INFO : test_Homepage_07 : Start executing Test Case Homepage - 07
+2024-10-02 10:33:16,319 : INFO : test_Homepage_07 : The Mobil Harga Miring Menu Title has an <H4> tag
+2024-10-02 10:33:16,327 : INFO : test_Homepage_07 : The Cicilan Murah Menu Title has an <H4> tag
+2024-10-02 10:33:16,337 : INFO : test_Homepage_07 : The DP Rendah Menu Title has an <H4> tag
+2024-10-02 10:33:16,346 : INFO : test_Homepage_07 : The Promo Menu Title has an <H4> tag
+2024-10-02 10:33:16,356 : INFO : test_Homepage_07 : The Simulasi Menu Title has an <H4> tag
+2024-10-02 10:33:16,364 : INFO : test_Homepage_07 : The Tukar Tambah Menu Title has an <H4> tag
+2024-10-02 10:33:16,371 : INFO : test_Homepage_06 : Start executing Test Case Homepage - 06
+2024-10-02 10:33:16,385 : INFO : test_Homepage_06 : The deskripsi_car_list has <H3> tag
+2024-10-02 10:33:16,390 : INFO : test_Homepage_05 : Start executing Test Case Homepage - 05
+2024-10-02 10:33:16,404 : INFO : test_Homepage_05 : The mobil_bekas_pilihan_title has <H1> tag
+2024-10-02 10:33:16,409 : INFO : test_Homepage_04 : Start executing Test Case Homepage - 04
+2024-10-02 10:33:16,434 : INFO : test_Homepage_04 : The mocil_logo has <H1> tag
+2024-10-02 10:33:16,439 : INFO : test_Homepage_03 : Start executing Test Case Homepage - 03
+2024-10-02 10:33:16,449 : INFO : test_Homepage_03 : Mocil Logo - Footer exist
+2024-10-02 10:33:16,459 : INFO : test_Homepage_03 : Link to Blog exist
+2024-10-02 10:33:16,470 : INFO : test_Homepage_03 : Link to Daftar Mitra Mocil exist
+2024-10-02 10:33:16,480 : INFO : test_Homepage_03 : Link to FAQ exist
+2024-10-02 10:33:16,489 : INFO : test_Homepage_03 : Link to Kebijakan Privasi exist
+2024-10-02 10:33:16,497 : INFO : test_Homepage_03 : Link to Tentang Mocil exist
+2024-10-02 10:33:16,507 : INFO : test_Homepage_03 : Link to Syarat dan ketentuan exist
+2024-10-02 10:33:16,517 : INFO : test_Homepage_03 : Link to Hak Cipta exist
+2024-10-02 10:33:16,527 : INFO : test_Homepage_03 : Link to Karir exist
+2024-10-02 10:33:16,536 : INFO : test_Homepage_03 : Link to Facebook exist
+2024-10-02 10:33:16,545 : INFO : test_Homepage_03 : Link to Twitter exist
+2024-10-02 10:33:16,555 : INFO : test_Homepage_03 : Link to Instagram exist
+2024-10-02 10:33:16,555 : INFO : test_Homepage_03 : Done checking footer element availability
+2024-10-02 10:33:16,560 : INFO : test_Homepage_02 : Start executing Test Case Homepage - 02
+2024-10-02 10:33:16,571 : INFO : test_Homepage_02 : Main Banner exist
+2024-10-02 10:33:16,579 : INFO : test_Homepage_02 : Mobil Harga Miring Menu exist
+2024-10-02 10:33:16,589 : INFO : test_Homepage_02 : Cicilan Murah Menu exist
+2024-10-02 10:33:16,596 : INFO : test_Homepage_02 : DP Rendah Menu exist
+2024-10-02 10:33:16,605 : INFO : test_Homepage_02 : Promo Menu exist
+2024-10-02 10:33:16,613 : INFO : test_Homepage_02 : Simulasi Menu exist
+2024-10-02 10:33:16,620 : INFO : test_Homepage_02 : Tukar Tambah Menu exist
+2024-10-02 10:33:16,629 : INFO : test_Homepage_02 : WA Floating Button exist
+2024-10-02 10:33:16,630 : INFO : test_Homepage_02 : Done checking main banner and kategori menu element availability
+2024-10-02 10:33:16,637 : INFO : test_Homepage_01 : Start executing Test Case Homepage - 01
+2024-10-02 10:33:16,645 : INFO : test_Homepage_01 : Mocil Logo - Header exist
+2024-10-02 10:33:16,654 : INFO : test_Homepage_01 : Search Box - Header exist
+2024-10-02 10:33:16,664 : INFO : test_Homepage_01 : Hamburger Menu exist
+2024-10-02 10:33:16,672 : INFO : test_Homepage_01 : Penumpang Button exist
+2024-10-02 10:33:16,682 : INFO : test_Homepage_01 : Niaga Button exist
+2024-10-02 10:33:16,692 : INFO : test_Homepage_01 : Tukar Tambah Button exist
+2024-10-02 10:33:16,701 : INFO : test_Homepage_01 : Favorit Button exist
+2024-10-02 10:33:16,713 : INFO : test_Homepage_01 : Advance Filter exist
+2024-10-02 10:33:16,713 : INFO : test_Homepage_01 : Done checking header element availability
+2024-10-02 10:51:01,190 : INFO : test_Homepage_01 : Start executing Test Case Homepage - 01
+2024-10-02 10:51:01,216 : INFO : test_Homepage_01 : Mocil Logo - Header exist
+2024-10-02 10:51:01,230 : INFO : test_Homepage_01 : Search Box - Header exist
+2024-10-02 10:51:01,243 : INFO : test_Homepage_01 : Hamburger Menu exist
+2024-10-02 10:51:01,254 : INFO : test_Homepage_01 : Penumpang Button exist
+2024-10-02 10:51:01,267 : INFO : test_Homepage_01 : Niaga Button exist
+2024-10-02 10:51:01,278 : INFO : test_Homepage_01 : Tukar Tambah Button exist
+2024-10-02 10:51:01,290 : INFO : test_Homepage_01 : Favorit Button exist
+2024-10-02 10:51:01,302 : INFO : test_Homepage_01 : Advance Filter exist
+2024-10-02 10:51:01,302 : INFO : test_Homepage_01 : Done checking header element availability
+2024-10-02 10:55:45,960 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 11:10:38,961 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 11:11:02,202 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 11:17:51,097 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 11:18:12,887 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 11:23:56,797 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 11:24:24,106 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 11:33:00,969 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 11:34:18,114 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 11:37:32,229 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 11:37:32,300 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 11:37:32,315 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 11:37:32,588 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 11:37:32,601 : INFO : test_homepage_simulasi_kredit_01 : Merk search box is found
+2024-10-02 11:37:32,718 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword is inputted
+2024-10-02 11:37:32,730 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-02 11:37:32,785 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-02 11:50:19,630 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 11:50:19,697 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 11:50:19,712 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 11:50:19,974 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 11:50:57,864 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 11:50:57,928 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 11:50:57,945 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 11:50:58,231 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 11:50:58,244 : INFO : test_homepage_simulasi_kredit_01 : Merk search box is found
+2024-10-02 11:51:26,109 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 11:51:26,198 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 11:51:26,212 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 11:51:26,433 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 11:52:34,626 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 11:52:34,704 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 11:52:34,744 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 11:52:34,901 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 11:53:34,763 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 11:53:34,856 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 11:53:34,873 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 11:53:37,933 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 11:53:37,946 : INFO : test_homepage_simulasi_kredit_01 : Merk search box is found
+2024-10-02 11:54:51,733 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 11:54:51,818 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 11:54:51,836 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 11:54:52,061 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 11:54:52,076 : INFO : test_homepage_simulasi_kredit_01 : Merk search box is found
+2024-10-02 11:54:52,169 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword is inputted
+2024-10-02 11:54:52,181 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-02 11:54:52,236 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-02 13:29:16,161 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 13:29:16,313 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 13:29:16,332 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 13:29:16,523 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 13:29:16,538 : INFO : test_homepage_simulasi_kredit_01 : Merk search box is found
+2024-10-02 13:29:16,647 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword is inputted
+2024-10-02 13:29:16,662 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-02 13:29:16,733 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-02 13:47:12,018 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 13:47:12,093 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 13:47:12,129 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 13:47:12,380 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 13:47:12,391 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 13:47:12,484 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword is inputted
+2024-10-02 13:47:12,497 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-02 13:47:12,555 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-02 13:47:12,568 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 13:48:39,709 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 13:48:39,775 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 13:48:39,793 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 13:48:40,024 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 13:48:40,042 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 13:48:40,145 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword is inputted
+2024-10-02 13:48:40,159 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-02 13:48:40,216 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-02 13:50:16,150 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 13:50:16,226 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 13:50:16,242 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 13:50:16,469 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 13:50:16,491 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 13:50:16,570 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword is inputted
+2024-10-02 13:50:16,583 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-02 13:50:16,638 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-02 13:59:55,299 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 13:59:55,375 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 13:59:55,395 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 13:59:55,629 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 13:59:55,644 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 13:59:55,731 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword is inputted
+2024-10-02 13:59:55,743 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-02 13:59:55,799 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-02 13:59:55,813 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is found
+2024-10-02 14:04:47,262 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 14:04:47,363 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 14:04:47,382 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 14:04:47,623 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 14:04:47,640 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:04:47,727 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword is inputted
+2024-10-02 14:04:47,741 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-02 14:04:47,804 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-02 14:04:47,819 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is found
+2024-10-02 14:06:58,858 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 14:06:58,947 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 14:06:58,967 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 14:06:59,252 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 14:06:59,280 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:06:59,405 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword is inputted
+2024-10-02 14:06:59,431 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-02 14:06:59,503 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-02 14:06:59,523 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is found
+2024-10-02 14:06:59,584 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is clicked
+2024-10-02 14:09:16,473 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 14:09:16,563 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 14:09:16,578 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 14:09:16,816 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 14:09:16,830 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:09:16,920 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword is inputted
+2024-10-02 14:09:16,934 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-02 14:09:16,996 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-02 14:09:17,012 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is found
+2024-10-02 14:09:19,013 : INFO : test_homepage_simulasi_kredit_01 : Sleep 2 second
+2024-10-02 14:09:19,062 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is clicked
+2024-10-02 14:09:19,071 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:09:19,132 : INFO : test_homepage_simulasi_kredit_01 : Model keyword is inputted
+2024-10-02 14:09:19,145 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is found
+2024-10-02 14:09:19,197 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is clicked
+2024-10-02 14:10:22,715 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 14:10:22,797 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 14:10:22,812 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 14:10:23,058 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 14:10:23,079 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:10:23,166 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword is inputted
+2024-10-02 14:10:23,180 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-02 14:10:23,240 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-02 14:10:23,251 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is found
+2024-10-02 14:10:25,311 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is clicked
+2024-10-02 14:10:25,323 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:10:25,393 : INFO : test_homepage_simulasi_kredit_01 : Model keyword is inputted
+2024-10-02 14:10:25,407 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is found
+2024-10-02 14:10:25,461 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is clicked
+2024-10-02 14:13:36,889 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 14:13:36,965 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 14:13:36,984 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 14:13:37,231 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 14:13:37,244 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:13:37,339 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword ("Dai") is inputted
+2024-10-02 14:13:37,352 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-02 14:13:37,410 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-02 14:13:37,424 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is found
+2024-10-02 14:13:39,480 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is clicked
+2024-10-02 14:13:39,490 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:13:39,554 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("Xen") is inputted
+2024-10-02 14:13:39,565 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is found
+2024-10-02 14:13:39,613 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is clicked
+2024-10-02 14:25:23,186 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 14:25:23,280 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 14:25:23,297 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 14:25:23,563 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 14:25:23,577 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:25:23,665 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword ("Dai") is inputted
+2024-10-02 14:25:23,678 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-02 14:25:23,736 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-02 14:25:23,750 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is found
+2024-10-02 14:25:25,806 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is clicked
+2024-10-02 14:25:25,817 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:25:25,882 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("Xen") is inputted
+2024-10-02 14:25:25,894 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is found
+2024-10-02 14:25:25,940 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is clicked
+2024-10-02 14:25:28,005 : INFO : test_homepage_simulasi_kredit_01 : Tipe dropdown is clicked
+2024-10-02 14:25:28,016 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:25:28,083 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("1.0L Li") is inputted
+2024-10-02 14:25:51,914 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 14:25:51,988 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 14:25:52,004 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 14:25:52,232 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 14:25:52,253 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:25:52,341 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword ("Dai") is inputted
+2024-10-02 14:25:52,355 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-02 14:25:52,415 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-02 14:25:52,429 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is found
+2024-10-02 14:25:54,487 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is clicked
+2024-10-02 14:25:54,497 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:25:54,567 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("Xen") is inputted
+2024-10-02 14:25:54,580 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is found
+2024-10-02 14:25:54,633 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is clicked
+2024-10-02 14:25:56,696 : INFO : test_homepage_simulasi_kredit_01 : Tipe dropdown is clicked
+2024-10-02 14:25:56,707 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:25:56,789 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("1.0L Li") is inputted
+2024-10-02 14:25:56,862 : INFO : test_homepage_simulasi_kredit_01 : Tipe 1.0L Li is clicked
+2024-10-02 14:36:35,293 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 14:36:35,389 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 14:36:35,404 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 14:36:35,652 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 14:36:35,667 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:36:35,768 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword ("Dai") is inputted
+2024-10-02 14:36:35,783 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-02 14:36:35,853 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-02 14:36:37,925 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is clicked
+2024-10-02 14:36:37,937 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:36:38,019 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("Xen") is inputted
+2024-10-02 14:36:38,036 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is found
+2024-10-02 14:36:38,099 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is clicked
+2024-10-02 14:36:40,164 : INFO : test_homepage_simulasi_kredit_01 : Tipe dropdown is clicked
+2024-10-02 14:36:40,176 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:36:40,255 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("1.0L Li") is inputted
+2024-10-02 14:36:40,316 : INFO : test_homepage_simulasi_kredit_01 : Tipe 1.0L Li is clicked
+2024-10-02 14:39:49,995 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 14:39:50,078 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 14:39:50,097 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 14:39:50,340 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 14:40:14,477 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 14:40:14,557 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 14:40:14,575 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 14:40:14,816 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 14:40:14,833 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:40:14,927 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword ("Dai") is inputted
+2024-10-02 14:40:14,941 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-02 14:40:15,007 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-02 14:40:17,080 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is clicked
+2024-10-02 14:40:17,093 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:40:17,173 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("Xen") is inputted
+2024-10-02 14:40:17,187 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is found
+2024-10-02 14:40:17,245 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is clicked
+2024-10-02 14:40:19,308 : INFO : test_homepage_simulasi_kredit_01 : Tipe dropdown is clicked
+2024-10-02 14:40:19,319 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:40:19,459 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("1.0L Li") is inputted
+2024-10-02 14:40:19,523 : INFO : test_homepage_simulasi_kredit_01 : Tipe 1.0L Li is clicked
+2024-10-02 14:42:00,474 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 14:42:00,565 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 14:42:00,587 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 14:42:00,832 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 14:42:00,848 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:42:00,947 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword ("Dai") is inputted
+2024-10-02 14:42:00,962 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-02 14:42:01,021 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-02 14:42:03,090 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is clicked
+2024-10-02 14:42:03,102 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:42:03,169 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("Xen") is inputted
+2024-10-02 14:42:03,184 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is found
+2024-10-02 14:42:03,235 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is clicked
+2024-10-02 14:42:05,299 : INFO : test_homepage_simulasi_kredit_01 : Tipe dropdown is clicked
+2024-10-02 14:42:05,311 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:42:05,388 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("1.0L Li") is inputted
+2024-10-02 14:42:05,449 : INFO : test_homepage_simulasi_kredit_01 : Tipe 1.0L Li is clicked
+2024-10-02 14:44:10,646 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 14:44:10,715 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 14:44:10,736 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 14:44:11,034 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 14:44:11,047 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:44:11,143 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword ("Dai") is inputted
+2024-10-02 14:44:11,159 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-02 14:44:11,233 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-02 14:44:13,292 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is clicked
+2024-10-02 14:44:13,303 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:44:13,369 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("Xen") is inputted
+2024-10-02 14:44:13,380 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is found
+2024-10-02 14:44:13,431 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is clicked
+2024-10-02 14:44:15,500 : INFO : test_homepage_simulasi_kredit_01 : Tipe dropdown is clicked
+2024-10-02 14:44:15,510 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:44:15,591 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("1.0L Li") is inputted
+2024-10-02 14:44:15,649 : INFO : test_homepage_simulasi_kredit_01 : Tipe 1.0L Li is clicked
+2024-10-02 14:50:19,904 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 14:50:19,981 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 14:50:19,999 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 14:50:20,244 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 14:50:55,883 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 14:50:55,966 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 14:50:55,985 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 14:50:56,246 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 14:50:56,260 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:50:56,346 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword ("Dai") is inputted
+2024-10-02 14:50:56,361 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-02 14:50:56,423 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-02 14:50:58,497 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is clicked
+2024-10-02 14:50:58,511 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:50:58,592 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("Xen") is inputted
+2024-10-02 14:50:58,608 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is found
+2024-10-02 14:50:58,663 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is clicked
+2024-10-02 14:51:00,732 : INFO : test_homepage_simulasi_kredit_01 : Tipe dropdown is clicked
+2024-10-02 14:51:00,745 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:51:00,823 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("1.0L Li") is inputted
+2024-10-02 14:51:00,879 : INFO : test_homepage_simulasi_kredit_01 : Tipe 1.0L Li is clicked
+2024-10-02 14:54:13,218 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 14:54:13,300 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 14:54:13,315 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 14:54:13,544 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 14:54:13,566 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:54:13,699 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword ("Dai") is inputted
+2024-10-02 14:54:13,716 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-02 14:54:13,779 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-02 14:54:15,836 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is clicked
+2024-10-02 14:54:15,849 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:54:15,936 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("Xen") is inputted
+2024-10-02 14:54:15,952 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is found
+2024-10-02 14:54:16,021 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is clicked
+2024-10-02 14:54:18,088 : INFO : test_homepage_simulasi_kredit_01 : Tipe dropdown is clicked
+2024-10-02 14:54:18,099 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:54:18,172 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("1.0L Li") is inputted
+2024-10-02 14:54:18,231 : INFO : test_homepage_simulasi_kredit_01 : Tipe 1.0L Li is clicked
+2024-10-02 14:54:19,295 : INFO : test_homepage_simulasi_kredit_01 : Transmisi dropdown is clicked
+2024-10-02 14:54:19,306 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 14:54:19,359 : INFO : test_homepage_simulasi_kredit_01 : Transmisi "Manual" is clicked
+2024-10-02 15:07:16,769 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 15:07:16,881 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 15:07:16,911 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 15:07:17,053 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 15:07:48,440 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 15:07:48,518 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 15:07:48,535 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 15:07:48,775 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 15:11:03,431 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-02 15:11:03,511 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-02 15:11:03,529 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-02 15:11:05,601 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-02 15:11:05,616 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 15:11:05,714 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword ("Dai") is inputted
+2024-10-02 15:11:05,730 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-02 15:11:05,792 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-02 15:11:07,847 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is clicked
+2024-10-02 15:11:07,858 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 15:11:07,924 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("Xen") is inputted
+2024-10-02 15:11:07,935 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is found
+2024-10-02 15:11:07,985 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is clicked
+2024-10-02 15:11:10,059 : INFO : test_homepage_simulasi_kredit_01 : Tipe dropdown is clicked
+2024-10-02 15:11:10,071 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 15:11:10,165 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("1.0L Li") is inputted
+2024-10-02 15:11:10,227 : INFO : test_homepage_simulasi_kredit_01 : Tipe 1.0L Li is clicked
+2024-10-02 15:11:11,288 : INFO : test_homepage_simulasi_kredit_01 : Transmisi dropdown is clicked
+2024-10-02 15:11:11,297 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-02 15:11:11,346 : INFO : test_homepage_simulasi_kredit_01 : Transmisi "Manual" is clicked
