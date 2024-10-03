@@ -18,7 +18,7 @@ class TestHomepageSimulation(BaseClass):
         #  Given that User is on the Kategori Menu section on the Homepage when User clicked on Simulasi button then User will see popup modal for Hitung Simulasi
         log = self.getLogger()
         homepage = Homepage(self.driver)
-        simulation = HomepageSimulation(self. driver)
+        simulation = HomepageSimulation(self.driver)
         log.info("Start executing Test Case Homepage Simulasi Kredit - 01")
 
         def search_wait():
@@ -39,7 +39,7 @@ class TestHomepageSimulation(BaseClass):
         wait.until(expected_conditions.presence_of_element_located(HomepageSimulation.locator_merk_dropdown))
         log.info("Merk dropdown is found")
 
-        time.sleep(2)
+        time.sleep(1)
 
         # Click the Merk dropdown
         simulation.merk_dropdown().click()
@@ -60,7 +60,7 @@ class TestHomepageSimulation(BaseClass):
         simulation.merk_daihatsu().click()
         log.info("Merk Daihatsu is clicked")
 
-        time.sleep(2)
+        time.sleep(1)
 
         #####################################
         # MODEL DROPDOWN
@@ -85,7 +85,7 @@ class TestHomepageSimulation(BaseClass):
         simulation.model_xenia().click()
         log.info("Model Xenia is clicked")
 
-        time.sleep(2)
+        time.sleep(1)
 
         #####################################
         # TIPE DROPDOWN
@@ -121,4 +121,119 @@ class TestHomepageSimulation(BaseClass):
         simulation.transmisi_manual().click()
         log.info("Transmisi \"Manual\" is clicked")
 
+        time.sleep(1)
+
+        #####################################
+        # TAHUN DROPDOWN
+        #####################################
+
+        # Click the Tahun dropdown
+        simulation.tahun_dropdown().click()
+        log.info("Tahun dropdown is clicked")
+
+        search_wait()
+
+        # Fill the Tahun search keyword
+        simulation.dropdown_search().send_keys("2010")
+        log.info("Tahun keyword (\"2010\") is inputted")
+
+        time.sleep(1)
+
+        # Click the '2010'
+        simulation.tahun_2010().click()
+        log.info("Tahun 2010 is clicked")
+
+        time.sleep(1)
+
+        #####################################
+        # WARNA DROPDOWN
+        #####################################
+
+        # Click the Warna dropdown
+        simulation.warna_dropdown().click()
+        log.info("Warna dropdown is clicked")
+
+        search_wait()
+
+        # Fill the Warna search keyword
+        simulation.dropdown_search().send_keys("Hitam")
+        log.info("Warna keyword (\"Hitam\") is inputted")
+
+        time.sleep(1)
+
+        # Click the 'Hitam'
+        simulation.warna_hitam().click()
+        log.info("Warna Hitam is clicked")
+
+        time.sleep(1)
+
+        #####################################
+        # KILOMETER
+        #####################################
+
+        # Fill the Kilometer search keyword
+        simulation.input_kilometer().send_keys("50000")
+        log.info("Kilometer (\"50.000\") is inputted")
+
+        time.sleep(1)
+
+        #####################################
+        # PROVINSI DROPDOWN
+        #####################################
+
+        # Click the Provinsi dropdown
+        simulation.provinsi_dropdown().click()
+        log.info("Provinsi dropdown is clicked")
+
+        search_wait()
+
+        # Fill the Provinsi search keyword
+        simulation.dropdown_search().send_keys("jak")
+        log.info("Provinsi keyword (\"jak\") is inputted")
+
+        time.sleep(1)
+
+        # Click the 'Jakarta D.K.I.'
+        simulation.provinsi_jakarta_dki().click()
+        log.info("Provinsi Jakarta D.K.I. is clicked")
+
+        time.sleep(1)
+
+        #####################################
+        # KOTA DROPDOWN
+        #####################################
+
+        # Click the Kota dropdown
+        simulation.kota_dropdown().click()
+        log.info("Kota dropdown is clicked")
+
+        search_wait()
+
+        # Fill the Kota search keyword
+        simulation.dropdown_search().send_keys("pus")
+        log.info("Kota keyword (\"pus\") is inputted")
+
+        time.sleep(1)
+
+        # Click the 'Jakarta Pusat'
+        simulation.kota_jakarta_pusat().click()
+        log.info("Kota Jakarta Pusat is clicked")
+
+        time.sleep(1)
+
+        ###################################################
+        # CLICK  'HITUNG SIMULASI' and OPEN THE RESULT PAGE
+        ###################################################
+
+        simulation.button_hitung_simulasi().click()
         time.sleep(2)
+        log.info("Button Hitung Simulasi is clicked")
+
+        expected_title = "Simulasi Pembiayaan"
+        actual_title = simulation.title_simulasi_pembiayaan().text
+        assert expected_title == actual_title, f"{expected_title}not found on the page"
+        log.info("Simulasi Pembiayaan result page is opened")
+
+        time.sleep(3)
+
+
