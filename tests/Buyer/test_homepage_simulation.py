@@ -1,12 +1,8 @@
 import time
 
-import pytest
 from selenium.common import NoSuchElementException
-from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
-
-from page_object import homepage_simulation
 from page_object.home_page import Homepage
 from page_object.homepage_simulation import HomepageSimulation
 from utilities.base_class import BaseClass
@@ -15,11 +11,30 @@ from utilities.base_class import BaseClass
 class TestHomepageSimulation(BaseClass):
 
     def test_homepage_simulasi_kredit_01(self):
-        #  Given that User is on the Kategori Menu section on the Homepage when User clicked on Simulasi button then User will see popup modal for Hitung Simulasi
+        # Given that User is on the Kategori Menu section on the Homepage when User clicked on Simulasi button then User will see popup modal for Hitung Simulasi
         log = self.getLogger()
         homepage = Homepage(self.driver)
         simulation = HomepageSimulation(self.driver)
         log.info("Start executing Test Case Homepage Simulasi Kredit - 01")
+
+        # Click the Simulasi Menu on the Homepage
+        homepage.simulasi_menu().click()
+        log.info("Simulation menu is clicked")
+        time.sleep(2)
+
+        try:
+            simulasi = simulation.simulasi_popup()
+            assert simulasi.is_displayed(), "Simulasi Popup is not visible"
+            log.info("Simulation Popup is displayed")
+        except NoSuchElementException:
+            assert False, "Simulasi Popup is not present on the page"
+
+    def test_homepage_simulasi_kredit_02(self):
+        #  Given that User is on popup Hitung Simulasi when User fill in the fields with valid keyword and click button Hitung Simulasi then User will be redirected to Simulasi Pembiayaan page with details for Hasil Simulasi
+        log = self.getLogger()
+        homepage = Homepage(self.driver)
+        simulation = HomepageSimulation(self.driver)
+        log.info("Start executing Test Case Homepage Simulasi Kredit - 02")
 
         def search_wait():
             wait2 = WebDriverWait(self.driver, 10)
@@ -60,6 +75,9 @@ class TestHomepageSimulation(BaseClass):
         simulation.merk_daihatsu().click()
         log.info("Merk Daihatsu is clicked")
 
+        # Get the string of the selected Merk for assertion on the Result Page purpose
+        selected_merk = simulation.merk_dropdown().text
+
         time.sleep(1)
 
         #####################################
@@ -85,6 +103,9 @@ class TestHomepageSimulation(BaseClass):
         simulation.model_xenia().click()
         log.info("Model Xenia is clicked")
 
+        # Get the string of the selected Merk for assertion on the Result Page purpose
+        selected_model = simulation.model_dropdown().text
+
         time.sleep(1)
 
         #####################################
@@ -104,6 +125,9 @@ class TestHomepageSimulation(BaseClass):
         # Click the '1.0L Li'
         simulation.tipe_10L_Li().click()
         log.info("Tipe 1.0L Li is clicked")
+
+        # Get the string of the selected Tipe for assertion on the Result Page purpose
+        selected_tipe = simulation.tipe_dropdown().text
 
         time.sleep(1)
 
@@ -229,11 +253,21 @@ class TestHomepageSimulation(BaseClass):
         time.sleep(2)
         log.info("Button Hitung Simulasi is clicked")
 
+        #  Verify the "Simulasi Pembiayaan" title exist on the Result Page
         expected_title = "Simulasi Pembiayaan"
         actual_title = simulation.title_simulasi_pembiayaan().text
-        assert expected_title == actual_title, f"{expected_title}not found on the page"
-        log.info("Simulasi Pembiayaan result page is opened")
+        assert expected_title == actual_title, f"{expected_title} not found on the page"
+        log.info("Simulasi Pembiayaan page is opened")
+
+        #  Verify the selected Merk exist on the Result Page
+        actual_merk = simulation.actual_merk().text
+        assert selected_merk.lower() in actual_merk.lower(), f"{selected_merk} not found on the page"
+        log.info("The selected Merk appear on the Result Page")
+
+        #  Verify the selected Model and Tipe exist on the Result Page
+        actual_model_tipe = simulation.actual_model_tipe().text
+        assert selected_model.lower() in actual_model_tipe.lower(), f"{selected_model} not found on the page"
+        assert selected_tipe.lower() in actual_model_tipe.lower(), f"{selected_tipe} not found on the page"
+        log.info("The selected Model and Tipe appear on the Result Page")
 
         time.sleep(3)
-
-

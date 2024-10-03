@@ -9,6 +9,8 @@ class HomepageSimulation:
     # LOCATOR
     ###########################################################################################################
 
+    # Simulation Form
+    locator_simulasi_popup = (By.XPATH, "//h5[contains(text(),'Cari Tahu Seberapa Murah Nyicil di Mocil!')]")
     locator_merk_dropdown = (By.XPATH, "//span[@id='select2-brand-mrp-nds-container']")
     locator_dropdown_search = (By.XPATH, "//input[@class='select2-search__field']")
     locator_daihatsu = (By.XPATH, "//li[contains(@id,'Daihatsu')]")
@@ -28,11 +30,19 @@ class HomepageSimulation:
     locator_kota_dropdown = (By.XPATH, "//span[@id='select2-city-name-mrp-nds-container']")
     locator_kota_jakarta_pusat = (By.XPATH, "//li[contains(@data-select2-id,'Jakarta Pusat')]")
     locator_button_hitung_simulasi = (By.XPATH, "//button[@id='home_simulasi_a']")
+
+    # Result Page
     locator_simulasi_pembiayaan_title = (By.XPATH, "//h1[contains(text(),'Simulasi Pembiayaan')]")
+    locator_actual_merk = (By.XPATH, "//h3[contains(text(),'Daihatsu')]")
+    locator_actual_model_tipe = (By.XPATH, "//h2[contains(text(),'Xenia 1.0L Li')]")
 
     ###########################################################################################################
     # WEB ELEMENT
     ###########################################################################################################
+
+    # Simulation Form
+    def simulasi_popup(self):
+        return self.driver.find_element(*HomepageSimulation.locator_simulasi_popup)
 
     def merk_dropdown(self):
         return self.driver.find_element(*HomepageSimulation.locator_merk_dropdown)
@@ -91,5 +101,13 @@ class HomepageSimulation:
     def button_hitung_simulasi(self):
         return self.driver.find_element(*HomepageSimulation.locator_button_hitung_simulasi)
 
+    # Result Page
+
     def title_simulasi_pembiayaan(self):
         return self.driver.find_element(*HomepageSimulation.locator_simulasi_pembiayaan_title)
+
+    def actual_merk(self):
+        return self.driver.find_element(*HomepageSimulation.locator_actual_merk)
+
+    def actual_model_tipe(self):
+        return self.driver.find_element(*HomepageSimulation.locator_actual_model_tipe)
