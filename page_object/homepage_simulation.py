@@ -31,6 +31,11 @@ class HomepageSimulation:
     locator_kota_jakarta_pusat = (By.XPATH, "//li[contains(@data-select2-id,'Jakarta Pusat')]")
     locator_button_hitung_simulasi = (By.XPATH, "//button[@id='home_simulasi_a']")
 
+    # Alert
+    locator_alert_merk = (By.XPATH, "//select[@id='brand-mrp-nds']")
+    locator_alert_model = (By.XPATH, "//select[@id='model-mrp-nds']")
+    locator_alert_tipe = (By.XPATH, "//select[@id='variant-mrp-nds']")
+
     # Result Page
     locator_simulasi_pembiayaan_title = (By.XPATH, "//h1[contains(text(),'Simulasi Pembiayaan')]")
     locator_actual_merk = (By.XPATH, "//h3[contains(text(),'Daihatsu')]")
@@ -101,8 +106,20 @@ class HomepageSimulation:
     def button_hitung_simulasi(self):
         return self.driver.find_element(*HomepageSimulation.locator_button_hitung_simulasi)
 
-    # Result Page
+    # Alert
+    ##########################################
 
+    def alert_merk(self):
+        return self.driver.find_element(*HomepageSimulation.locator_alert_merk)
+
+    def alert_model(self):
+        return self.driver.find_element(*HomepageSimulation.locator_alert_model)
+
+    def alert_tipe(self):
+        return self.driver.find_element(*HomepageSimulation.locator_alert_tipe)
+
+    # Result Page
+    ##########################################
     def title_simulasi_pembiayaan(self):
         return self.driver.find_element(*HomepageSimulation.locator_simulasi_pembiayaan_title)
 
@@ -111,3 +128,4 @@ class HomepageSimulation:
 
     def actual_model_tipe(self):
         return self.driver.find_element(*HomepageSimulation.locator_actual_model_tipe)
+

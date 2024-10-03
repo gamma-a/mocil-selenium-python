@@ -10,6 +10,15 @@ from utilities.base_class import BaseClass
 
 class TestHomepageSimulation(BaseClass):
 
+    def search_wait(self):
+        log = self.getLogger()
+        homepage = Homepage(self.driver)
+        simulation = HomepageSimulation(self.driver)
+
+        wait2 = WebDriverWait(self.driver, 10)
+        wait2.until(expected_conditions.presence_of_element_located(HomepageSimulation.locator_dropdown_search))
+        log.info("Search box is found")
+
     def test_homepage_simulasi_kredit_01(self):
         # Given that User is on the Kategori Menu section on the Homepage when User clicked on Simulasi button then User will see popup modal for Hitung Simulasi
         log = self.getLogger()
@@ -36,10 +45,10 @@ class TestHomepageSimulation(BaseClass):
         simulation = HomepageSimulation(self.driver)
         log.info("Start executing Test Case Homepage Simulasi Kredit - 02")
 
-        def search_wait():
-            wait2 = WebDriverWait(self.driver, 10)
-            wait2.until(expected_conditions.presence_of_element_located(HomepageSimulation.locator_dropdown_search))
-            log.info("Search box is found")
+        # def search_wait():
+        #     wait2 = WebDriverWait(self.driver, 10)
+        #     wait2.until(expected_conditions.presence_of_element_located(HomepageSimulation.locator_dropdown_search))
+        #     log.info("Search box is found")
 
         # Click the Simulasi Menu on the Homepage
         homepage.simulasi_menu().click()
@@ -60,7 +69,7 @@ class TestHomepageSimulation(BaseClass):
         simulation.merk_dropdown().click()
         log.info("Merk dropdown is clicked")
 
-        search_wait()
+        self.search_wait()
 
         # Fill the merk search keyword
         simulation.dropdown_search().send_keys("Dai")
@@ -84,11 +93,11 @@ class TestHomepageSimulation(BaseClass):
         # MODEL DROPDOWN
         #####################################
 
-        # Click the Merk dropdown
+        # Click the Model dropdown
         simulation.model_dropdown().click()
         log.info("Model dropdown is clicked")
 
-        search_wait()
+        self.search_wait()
 
         # Fill the Model search keyword
         simulation.dropdown_search().send_keys("Xen")
@@ -116,7 +125,7 @@ class TestHomepageSimulation(BaseClass):
         simulation.tipe_dropdown().click()
         log.info("Tipe dropdown is clicked")
 
-        search_wait()
+        self.search_wait()
 
         # Fill the Tipe search keyword
         simulation.dropdown_search().send_keys("1.0L Li")
@@ -139,7 +148,7 @@ class TestHomepageSimulation(BaseClass):
         simulation.transmisi_dropdown().click()
         log.info("Transmisi dropdown is clicked")
 
-        search_wait()
+        self.search_wait()
 
         # Click the 'Manual'
         simulation.transmisi_manual().click()
@@ -155,7 +164,7 @@ class TestHomepageSimulation(BaseClass):
         simulation.tahun_dropdown().click()
         log.info("Tahun dropdown is clicked")
 
-        search_wait()
+        self.search_wait()
 
         # Fill the Tahun search keyword
         simulation.dropdown_search().send_keys("2010")
@@ -177,7 +186,7 @@ class TestHomepageSimulation(BaseClass):
         simulation.warna_dropdown().click()
         log.info("Warna dropdown is clicked")
 
-        search_wait()
+        self.search_wait()
 
         # Fill the Warna search keyword
         simulation.dropdown_search().send_keys("Hitam")
@@ -209,7 +218,7 @@ class TestHomepageSimulation(BaseClass):
         simulation.provinsi_dropdown().click()
         log.info("Provinsi dropdown is clicked")
 
-        search_wait()
+        self.search_wait()
 
         # Fill the Provinsi search keyword
         simulation.dropdown_search().send_keys("jak")
@@ -231,7 +240,7 @@ class TestHomepageSimulation(BaseClass):
         simulation.kota_dropdown().click()
         log.info("Kota dropdown is clicked")
 
-        search_wait()
+        self.search_wait()
 
         # Fill the Kota search keyword
         simulation.dropdown_search().send_keys("pus")
@@ -269,5 +278,108 @@ class TestHomepageSimulation(BaseClass):
         assert selected_model.lower() in actual_model_tipe.lower(), f"{selected_model} not found on the page"
         assert selected_tipe.lower() in actual_model_tipe.lower(), f"{selected_tipe} not found on the page"
         log.info("The selected Model and Tipe appear on the Result Page")
+
+        time.sleep(3)
+
+    def test_homepage_simulasi_kredit_03(self):
+        # Given that User is on popup Hitung Simulasi when User leave all the fields empty and click button Hitung Simulasi then User able to see a notification alert to fill the mandatory field
+
+        log = self.getLogger()
+        homepage = Homepage(self.driver)
+        simulation = HomepageSimulation(self.driver)
+        log.info("Start executing Test Case Homepage Simulasi Kredit - 03")
+
+        # Click the Simulasi Menu on the Homepage
+        homepage.simulasi_menu().click()
+        log.info("Simulation menu is clicked")
+        time.sleep(2)
+
+        ########################################
+        # ALERT MERK
+        ########################################
+
+        # Directly click Hitung Simulasi button
+        simulation.button_hitung_simulasi().click()
+        log.info("Hitung Simulasi button is clicked")
+        time.sleep(1)
+
+        try:
+            alert_merk = simulation.alert_merk()
+            assert alert_merk.is_displayed(), "Alert Merk is not visible"
+            log.info("Alert Merk is displayed")
+        except NoSuchElementException:
+            assert False, "Alert Merk is not present on the page"
+
+        ########################################
+        # ALERT MODEL
+        ########################################
+
+        # Click the Merk dropdown
+        simulation.merk_dropdown().click()
+        log.info("Merk dropdown is clicked")
+
+        self.search_wait()
+
+        # Fill the merk search keyword
+        simulation.dropdown_search().send_keys("Dai")
+        log.info("Merk keyword (\"Dai\") is inputted")
+
+        # Explicit wait, until the Daihatsu (Merk) is presence
+        wait = WebDriverWait(self.driver, 10)
+        wait.until(expected_conditions.presence_of_element_located(HomepageSimulation.locator_daihatsu))
+        log.info("Merk Daihatsu is found")
+
+        # Click the 'Daihatsu'
+        simulation.merk_daihatsu().click()
+        log.info("Merk Daihatsu is clicked")
+
+        # Click the Hitung Simulasi button
+        simulation.button_hitung_simulasi().click()
+        log.info("Hitung Simulasi button is clicked")
+        time.sleep(1)
+
+        try:
+            alert_model = simulation.alert_model()
+            assert alert_model.is_displayed(), "Alert Model is not visible"
+            log.info("Alert Model is displayed")
+        except NoSuchElementException:
+            assert False, "Alert Model is not present on the page"
+
+        ########################################
+        # ALERT TIPE
+        ########################################
+
+        # Click the Model dropdown
+        simulation.model_dropdown().click()
+        log.info("Model dropdown is clicked")
+
+        self.search_wait()
+
+        # Fill the Model search keyword
+        simulation.dropdown_search().send_keys("Xen")
+        log.info("Model keyword (\"Xen\") is inputted")
+
+        # Explicit wait, until the Xenia (Model) is presence
+        wait = WebDriverWait(self.driver, 10)
+        wait.until(expected_conditions.presence_of_element_located(HomepageSimulation.locator_xenia))
+        log.info("Model Xenia is found")
+
+        # Click the 'Xenia'
+        simulation.model_xenia().click()
+        log.info("Model Xenia is clicked")
+
+        time.sleep(1)
+
+        # Click the Hitung Simulasi button
+        simulation.button_hitung_simulasi().click()
+        log.info("Hitung Simulasi button is clicked")
+        time.sleep(1)
+
+        try:
+            alert_tipe = simulation.alert_tipe()
+            assert alert_tipe.is_displayed(), "Alert Tipe is not visible"
+            log.info("Alert Tipe is displayed")
+        except NoSuchElementException:
+            assert False, "Alert Tipe is not present on the page"
 
         time.sleep(3)

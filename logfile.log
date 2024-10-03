@@ -1222,3 +1222,102 @@
 2024-10-03 15:21:45,272 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
 2024-10-03 15:21:45,341 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
 2024-10-03 15:21:47,368 : INFO : test_homepage_simulasi_kredit_01 : Simulation Popup is displayed
+2024-10-03 15:50:59,352 : INFO : test_homepage_simulasi_kredit_03 : Start executing Test Case Homepage Simulasi Kredit - 03
+2024-10-03 15:50:59,422 : INFO : test_homepage_simulasi_kredit_03 : Simulation menu is clicked
+2024-10-03 15:51:02,530 : INFO : test_homepage_simulasi_kredit_03 : Alert Merk is displayed
+2024-10-03 16:01:59,703 : INFO : test_homepage_simulasi_kredit_03 : Start executing Test Case Homepage Simulasi Kredit - 03
+2024-10-03 16:01:59,771 : INFO : test_homepage_simulasi_kredit_03 : Simulation menu is clicked
+2024-10-03 16:02:01,837 : INFO : test_homepage_simulasi_kredit_03 : Hitung Simulasi button is clicked
+2024-10-03 16:02:02,870 : INFO : test_homepage_simulasi_kredit_03 : Alert Merk is displayed
+2024-10-03 16:02:02,941 : INFO : test_homepage_simulasi_kredit_03 : Merk dropdown is clicked
+2024-10-03 16:04:00,526 : INFO : test_homepage_simulasi_kredit_03 : Start executing Test Case Homepage Simulasi Kredit - 03
+2024-10-03 16:04:00,594 : INFO : test_homepage_simulasi_kredit_03 : Simulation menu is clicked
+2024-10-03 16:04:02,655 : INFO : test_homepage_simulasi_kredit_03 : Hitung Simulasi button is clicked
+2024-10-03 16:04:03,691 : INFO : test_homepage_simulasi_kredit_03 : Alert Merk is displayed
+2024-10-03 16:04:03,768 : INFO : test_homepage_simulasi_kredit_03 : Merk dropdown is clicked
+2024-10-03 16:04:03,787 : INFO : search_wait : Search box is found
+2024-10-03 16:04:03,873 : INFO : test_homepage_simulasi_kredit_03 : Merk keyword ("Dai") is inputted
+2024-10-03 16:04:03,890 : INFO : test_homepage_simulasi_kredit_03 : Merk Daihatsu is found
+2024-10-03 16:04:03,939 : INFO : test_homepage_simulasi_kredit_03 : Merk Daihatsu is clicked
+2024-10-03 16:04:03,985 : INFO : test_homepage_simulasi_kredit_03 : Hitung Simulasi button is clicked
+2024-10-03 16:04:05,019 : INFO : test_homepage_simulasi_kredit_03 : Alert Model is displayed
+2024-10-03 16:11:15,992 : INFO : test_homepage_simulasi_kredit_03 : Start executing Test Case Homepage Simulasi Kredit - 03
+2024-10-03 16:11:16,073 : INFO : test_homepage_simulasi_kredit_03 : Simulation menu is clicked
+2024-10-03 16:11:18,144 : INFO : test_homepage_simulasi_kredit_03 : Hitung Simulasi button is clicked
+2024-10-03 16:11:19,179 : INFO : test_homepage_simulasi_kredit_03 : Alert Merk is displayed
+2024-10-03 16:11:19,259 : INFO : test_homepage_simulasi_kredit_03 : Merk dropdown is clicked
+2024-10-03 16:11:19,283 : INFO : search_wait : Search box is found
+2024-10-03 16:11:19,373 : INFO : test_homepage_simulasi_kredit_03 : Merk keyword ("Dai") is inputted
+2024-10-03 16:11:19,387 : INFO : test_homepage_simulasi_kredit_03 : Merk Daihatsu is found
+2024-10-03 16:11:19,435 : INFO : test_homepage_simulasi_kredit_03 : Merk Daihatsu is clicked
+2024-10-03 16:11:19,486 : INFO : test_homepage_simulasi_kredit_03 : Hitung Simulasi button is clicked
+2024-10-03 16:11:20,515 : INFO : test_homepage_simulasi_kredit_03 : Alert Model is displayed
+2024-10-03 16:13:32,001 : INFO : test_homepage_simulasi_kredit_03 : Start executing Test Case Homepage Simulasi Kredit - 03
+2024-10-03 16:13:32,073 : INFO : test_homepage_simulasi_kredit_03 : Simulation menu is clicked
+2024-10-03 16:13:34,150 : INFO : test_homepage_simulasi_kredit_03 : Hitung Simulasi button is clicked
+2024-10-03 16:13:35,185 : INFO : test_homepage_simulasi_kredit_03 : Alert Merk is displayed
+2024-10-03 16:13:35,260 : INFO : test_homepage_simulasi_kredit_03 : Merk dropdown is clicked
+2024-10-03 16:13:35,285 : INFO : search_wait : Search box is found
+2024-10-03 16:13:35,390 : INFO : test_homepage_simulasi_kredit_03 : Merk keyword ("Dai") is inputted
+2024-10-03 16:13:35,404 : INFO : test_homepage_simulasi_kredit_03 : Merk Daihatsu is found
+2024-10-03 16:13:35,454 : INFO : test_homepage_simulasi_kredit_03 : Merk Daihatsu is clicked
+2024-10-03 16:13:35,501 : INFO : test_homepage_simulasi_kredit_03 : Hitung Simulasi button is clicked
+2024-10-03 16:13:36,526 : INFO : test_homepage_simulasi_kredit_03 : Alert Model is displayed
+2024-10-03 16:13:36,586 : INFO : test_homepage_simulasi_kredit_03 : Tipe dropdown is clicked
+2024-10-03 16:18:18,805 : INFO : test_homepage_simulasi_kredit_03 : Start executing Test Case Homepage Simulasi Kredit - 03
+2024-10-03 16:18:18,872 : INFO : test_homepage_simulasi_kredit_03 : Simulation menu is clicked
+2024-10-03 16:18:20,935 : INFO : test_homepage_simulasi_kredit_03 : Hitung Simulasi button is clicked
+2024-10-03 16:18:21,978 : INFO : test_homepage_simulasi_kredit_03 : Alert Merk is displayed
+2024-10-03 16:18:22,077 : INFO : test_homepage_simulasi_kredit_03 : Merk dropdown is clicked
+2024-10-03 16:18:22,097 : INFO : search_wait : Search box is found
+2024-10-03 16:18:22,184 : INFO : test_homepage_simulasi_kredit_03 : Merk keyword ("Dai") is inputted
+2024-10-03 16:18:22,200 : INFO : test_homepage_simulasi_kredit_03 : Merk Daihatsu is found
+2024-10-03 16:18:22,250 : INFO : test_homepage_simulasi_kredit_03 : Merk Daihatsu is clicked
+2024-10-03 16:18:22,293 : INFO : test_homepage_simulasi_kredit_03 : Hitung Simulasi button is clicked
+2024-10-03 16:18:23,321 : INFO : test_homepage_simulasi_kredit_03 : Alert Model is displayed
+2024-10-03 16:18:23,388 : INFO : test_homepage_simulasi_kredit_03 : Model dropdown is clicked
+2024-10-03 16:18:23,404 : INFO : search_wait : Search box is found
+2024-10-03 16:18:23,404 : INFO : search_wait : Search box is found
+2024-10-03 16:18:23,468 : INFO : test_homepage_simulasi_kredit_03 : Model keyword ("Xen") is inputted
+2024-10-03 16:18:23,481 : INFO : test_homepage_simulasi_kredit_03 : Model Xenia is found
+2024-10-03 16:18:23,523 : INFO : test_homepage_simulasi_kredit_03 : Model Xenia is clicked
+2024-10-03 16:18:23,567 : INFO : test_homepage_simulasi_kredit_03 : Hitung Simulasi button is clicked
+2024-10-03 16:18:24,600 : INFO : test_homepage_simulasi_kredit_03 : Alert Tipe is displayed
+2024-10-03 16:18:56,028 : INFO : test_homepage_simulasi_kredit_03 : Start executing Test Case Homepage Simulasi Kredit - 03
+2024-10-03 16:18:56,094 : INFO : test_homepage_simulasi_kredit_03 : Simulation menu is clicked
+2024-10-03 16:18:58,161 : INFO : test_homepage_simulasi_kredit_03 : Hitung Simulasi button is clicked
+2024-10-03 16:18:59,201 : INFO : test_homepage_simulasi_kredit_03 : Alert Merk is displayed
+2024-10-03 16:18:59,283 : INFO : test_homepage_simulasi_kredit_03 : Merk dropdown is clicked
+2024-10-03 16:18:59,301 : INFO : search_wait : Search box is found
+2024-10-03 16:18:59,395 : INFO : test_homepage_simulasi_kredit_03 : Merk keyword ("Dai") is inputted
+2024-10-03 16:18:59,410 : INFO : test_homepage_simulasi_kredit_03 : Merk Daihatsu is found
+2024-10-03 16:18:59,459 : INFO : test_homepage_simulasi_kredit_03 : Merk Daihatsu is clicked
+2024-10-03 16:18:59,498 : INFO : test_homepage_simulasi_kredit_03 : Hitung Simulasi button is clicked
+2024-10-03 16:19:00,530 : INFO : test_homepage_simulasi_kredit_03 : Alert Model is displayed
+2024-10-03 16:19:00,593 : INFO : test_homepage_simulasi_kredit_03 : Model dropdown is clicked
+2024-10-03 16:19:00,607 : INFO : search_wait : Search box is found
+2024-10-03 16:19:00,607 : INFO : search_wait : Search box is found
+2024-10-03 16:19:00,659 : INFO : test_homepage_simulasi_kredit_03 : Model keyword ("Xen") is inputted
+2024-10-03 16:19:00,670 : INFO : test_homepage_simulasi_kredit_03 : Model Xenia is found
+2024-10-03 16:19:00,712 : INFO : test_homepage_simulasi_kredit_03 : Model Xenia is clicked
+2024-10-03 16:19:00,757 : INFO : test_homepage_simulasi_kredit_03 : Hitung Simulasi button is clicked
+2024-10-03 16:19:01,793 : INFO : test_homepage_simulasi_kredit_03 : Alert Tipe is displayed
+2024-10-03 16:20:37,116 : INFO : test_homepage_simulasi_kredit_03 : Start executing Test Case Homepage Simulasi Kredit - 03
+2024-10-03 16:20:37,181 : INFO : test_homepage_simulasi_kredit_03 : Simulation menu is clicked
+2024-10-03 16:20:39,271 : INFO : test_homepage_simulasi_kredit_03 : Hitung Simulasi button is clicked
+2024-10-03 16:20:40,308 : INFO : test_homepage_simulasi_kredit_03 : Alert Merk is displayed
+2024-10-03 16:20:40,396 : INFO : test_homepage_simulasi_kredit_03 : Merk dropdown is clicked
+2024-10-03 16:20:40,422 : INFO : search_wait : Search box is found
+2024-10-03 16:20:40,532 : INFO : test_homepage_simulasi_kredit_03 : Merk keyword ("Dai") is inputted
+2024-10-03 16:20:40,553 : INFO : test_homepage_simulasi_kredit_03 : Merk Daihatsu is found
+2024-10-03 16:20:40,611 : INFO : test_homepage_simulasi_kredit_03 : Merk Daihatsu is clicked
+2024-10-03 16:20:40,658 : INFO : test_homepage_simulasi_kredit_03 : Hitung Simulasi button is clicked
+2024-10-03 16:20:41,692 : INFO : test_homepage_simulasi_kredit_03 : Alert Model is displayed
+2024-10-03 16:20:41,773 : INFO : test_homepage_simulasi_kredit_03 : Model dropdown is clicked
+2024-10-03 16:20:41,791 : INFO : search_wait : Search box is found
+2024-10-03 16:20:41,791 : INFO : search_wait : Search box is found
+2024-10-03 16:20:41,857 : INFO : test_homepage_simulasi_kredit_03 : Model keyword ("Xen") is inputted
+2024-10-03 16:20:41,870 : INFO : test_homepage_simulasi_kredit_03 : Model Xenia is found
+2024-10-03 16:20:41,913 : INFO : test_homepage_simulasi_kredit_03 : Model Xenia is clicked
+2024-10-03 16:20:42,975 : INFO : test_homepage_simulasi_kredit_03 : Hitung Simulasi button is clicked
+2024-10-03 16:20:44,008 : INFO : test_homepage_simulasi_kredit_03 : Alert Tipe is displayed
