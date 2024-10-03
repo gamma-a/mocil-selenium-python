@@ -627,3 +627,323 @@
 2024-10-02 15:11:11,288 : INFO : test_homepage_simulasi_kredit_01 : Transmisi dropdown is clicked
 2024-10-02 15:11:11,297 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
 2024-10-02 15:11:11,346 : INFO : test_homepage_simulasi_kredit_01 : Transmisi "Manual" is clicked
+2024-10-03 11:58:00,249 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-03 11:58:00,329 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-03 11:58:00,348 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-03 11:58:02,412 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-03 11:58:02,428 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 11:58:02,521 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword ("Dai") is inputted
+2024-10-03 11:58:02,535 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-03 11:58:02,591 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-03 11:58:04,644 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is clicked
+2024-10-03 11:58:04,653 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 11:58:04,699 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("Xen") is inputted
+2024-10-03 11:58:04,710 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is found
+2024-10-03 11:58:04,750 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is clicked
+2024-10-03 11:58:06,805 : INFO : test_homepage_simulasi_kredit_01 : Tipe dropdown is clicked
+2024-10-03 11:58:06,814 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 11:58:06,873 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("1.0L Li") is inputted
+2024-10-03 11:58:06,919 : INFO : test_homepage_simulasi_kredit_01 : Tipe 1.0L Li is clicked
+2024-10-03 11:58:07,970 : INFO : test_homepage_simulasi_kredit_01 : Transmisi dropdown is clicked
+2024-10-03 11:58:07,979 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 11:58:08,027 : INFO : test_homepage_simulasi_kredit_01 : Transmisi "Manual" is clicked
+2024-10-03 11:58:10,082 : INFO : test_homepage_simulasi_kredit_01 : Tahun dropdown is clicked
+2024-10-03 11:58:10,091 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 11:58:10,152 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("2010") is inputted
+2024-10-03 11:58:50,526 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-03 11:58:50,590 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-03 11:58:50,616 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-03 11:58:52,706 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-03 11:58:52,720 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 11:58:52,805 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword ("Dai") is inputted
+2024-10-03 11:58:52,818 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-03 11:58:52,871 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-03 11:58:54,933 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is clicked
+2024-10-03 11:58:54,941 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 11:58:55,003 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("Xen") is inputted
+2024-10-03 11:58:55,016 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is found
+2024-10-03 11:58:55,065 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is clicked
+2024-10-03 11:58:57,129 : INFO : test_homepage_simulasi_kredit_01 : Tipe dropdown is clicked
+2024-10-03 11:58:57,139 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 11:58:57,203 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("1.0L Li") is inputted
+2024-10-03 11:58:57,266 : INFO : test_homepage_simulasi_kredit_01 : Tipe 1.0L Li is clicked
+2024-10-03 11:58:58,328 : INFO : test_homepage_simulasi_kredit_01 : Transmisi dropdown is clicked
+2024-10-03 11:58:58,339 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 11:58:58,392 : INFO : test_homepage_simulasi_kredit_01 : Transmisi "Manual" is clicked
+2024-10-03 11:59:00,445 : INFO : test_homepage_simulasi_kredit_01 : Tahun dropdown is clicked
+2024-10-03 11:59:00,459 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 11:59:00,517 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("2010") is inputted
+2024-10-03 11:59:26,802 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-03 11:59:26,887 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-03 11:59:26,916 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-03 11:59:28,974 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-03 11:59:28,989 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 11:59:29,052 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword ("Dai") is inputted
+2024-10-03 11:59:29,063 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-03 11:59:29,106 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-03 11:59:31,168 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is clicked
+2024-10-03 11:59:31,182 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 11:59:31,236 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("Xen") is inputted
+2024-10-03 11:59:31,247 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is found
+2024-10-03 11:59:31,288 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is clicked
+2024-10-03 11:59:33,342 : INFO : test_homepage_simulasi_kredit_01 : Tipe dropdown is clicked
+2024-10-03 11:59:33,351 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 11:59:33,420 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("1.0L Li") is inputted
+2024-10-03 11:59:33,470 : INFO : test_homepage_simulasi_kredit_01 : Tipe 1.0L Li is clicked
+2024-10-03 11:59:34,523 : INFO : test_homepage_simulasi_kredit_01 : Transmisi dropdown is clicked
+2024-10-03 11:59:34,531 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 11:59:34,575 : INFO : test_homepage_simulasi_kredit_01 : Transmisi "Manual" is clicked
+2024-10-03 11:59:36,639 : INFO : test_homepage_simulasi_kredit_01 : Tahun dropdown is clicked
+2024-10-03 11:59:36,650 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 11:59:36,718 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("2010") is inputted
+2024-10-03 13:14:38,887 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-03 13:14:38,954 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-03 13:14:38,968 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-03 13:14:41,022 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-03 13:14:41,035 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:14:41,122 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword ("Dai") is inputted
+2024-10-03 13:14:41,136 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-03 13:14:41,191 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-03 13:14:43,258 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is clicked
+2024-10-03 13:14:43,266 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:14:43,316 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("Xen") is inputted
+2024-10-03 13:14:43,326 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is found
+2024-10-03 13:14:43,367 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is clicked
+2024-10-03 13:14:45,421 : INFO : test_homepage_simulasi_kredit_01 : Tipe dropdown is clicked
+2024-10-03 13:14:45,428 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:14:45,484 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("1.0L Li") is inputted
+2024-10-03 13:14:45,527 : INFO : test_homepage_simulasi_kredit_01 : Tipe 1.0L Li is clicked
+2024-10-03 13:14:46,611 : INFO : test_homepage_simulasi_kredit_01 : Transmisi dropdown is clicked
+2024-10-03 13:14:46,621 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:14:46,662 : INFO : test_homepage_simulasi_kredit_01 : Transmisi "Manual" is clicked
+2024-10-03 13:14:48,722 : INFO : test_homepage_simulasi_kredit_01 : Tahun dropdown is clicked
+2024-10-03 13:14:48,732 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:14:48,806 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("2010") is inputted
+2024-10-03 13:14:51,853 : INFO : test_homepage_simulasi_kredit_01 : Tahun 2010 is clicked
+2024-10-03 13:15:44,453 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-03 13:15:44,510 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-03 13:15:44,522 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-03 13:15:45,578 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-03 13:15:45,589 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:15:45,652 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword ("Dai") is inputted
+2024-10-03 13:15:45,664 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-03 13:15:45,709 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-03 13:15:46,768 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is clicked
+2024-10-03 13:15:46,775 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:15:46,824 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("Xen") is inputted
+2024-10-03 13:15:46,834 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is found
+2024-10-03 13:15:46,881 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is clicked
+2024-10-03 13:15:47,953 : INFO : test_homepage_simulasi_kredit_01 : Tipe dropdown is clicked
+2024-10-03 13:15:47,965 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:15:48,048 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("1.0L Li") is inputted
+2024-10-03 13:15:48,098 : INFO : test_homepage_simulasi_kredit_01 : Tipe 1.0L Li is clicked
+2024-10-03 13:15:49,156 : INFO : test_homepage_simulasi_kredit_01 : Transmisi dropdown is clicked
+2024-10-03 13:15:49,165 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:15:49,212 : INFO : test_homepage_simulasi_kredit_01 : Transmisi "Manual" is clicked
+2024-10-03 13:15:50,261 : INFO : test_homepage_simulasi_kredit_01 : Tahun dropdown is clicked
+2024-10-03 13:15:50,269 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:15:50,321 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("2010") is inputted
+2024-10-03 13:15:51,372 : INFO : test_homepage_simulasi_kredit_01 : Tahun 2010 is clicked
+2024-10-03 13:29:04,314 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-03 13:29:04,396 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-03 13:29:04,414 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-03 13:29:05,480 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-03 13:29:05,492 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:29:05,559 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword ("Dai") is inputted
+2024-10-03 13:29:05,574 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-03 13:29:05,617 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-03 13:29:06,681 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is clicked
+2024-10-03 13:29:06,693 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:29:06,761 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("Xen") is inputted
+2024-10-03 13:29:06,776 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is found
+2024-10-03 13:29:06,832 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is clicked
+2024-10-03 13:29:07,885 : INFO : test_homepage_simulasi_kredit_01 : Tipe dropdown is clicked
+2024-10-03 13:29:07,893 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:29:07,953 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("1.0L Li") is inputted
+2024-10-03 13:29:07,999 : INFO : test_homepage_simulasi_kredit_01 : Tipe 1.0L Li is clicked
+2024-10-03 13:29:09,065 : INFO : test_homepage_simulasi_kredit_01 : Transmisi dropdown is clicked
+2024-10-03 13:29:09,072 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:29:09,114 : INFO : test_homepage_simulasi_kredit_01 : Transmisi "Manual" is clicked
+2024-10-03 13:29:10,178 : INFO : test_homepage_simulasi_kredit_01 : Tahun dropdown is clicked
+2024-10-03 13:29:10,187 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:29:10,238 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("2010") is inputted
+2024-10-03 13:29:11,284 : INFO : test_homepage_simulasi_kredit_01 : Tahun 2010 is clicked
+2024-10-03 13:29:12,346 : INFO : test_homepage_simulasi_kredit_01 : Warna dropdown is clicked
+2024-10-03 13:29:12,358 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:29:12,434 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("Hitam") is inputted
+2024-10-03 13:29:13,480 : INFO : test_homepage_simulasi_kredit_01 : Warna Hitam is clicked
+2024-10-03 13:32:49,701 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-03 13:32:49,807 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-03 13:32:49,821 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-03 13:32:50,884 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-03 13:32:50,897 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:32:50,960 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword ("Dai") is inputted
+2024-10-03 13:32:50,972 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-03 13:32:51,016 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-03 13:32:52,092 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is clicked
+2024-10-03 13:32:52,105 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:32:52,178 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("Xen") is inputted
+2024-10-03 13:32:52,195 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is found
+2024-10-03 13:32:52,254 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is clicked
+2024-10-03 13:32:53,315 : INFO : test_homepage_simulasi_kredit_01 : Tipe dropdown is clicked
+2024-10-03 13:32:53,324 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:32:53,394 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("1.0L Li") is inputted
+2024-10-03 13:32:53,440 : INFO : test_homepage_simulasi_kredit_01 : Tipe 1.0L Li is clicked
+2024-10-03 13:32:54,495 : INFO : test_homepage_simulasi_kredit_01 : Transmisi dropdown is clicked
+2024-10-03 13:32:54,504 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:32:54,545 : INFO : test_homepage_simulasi_kredit_01 : Transmisi "Manual" is clicked
+2024-10-03 13:32:55,601 : INFO : test_homepage_simulasi_kredit_01 : Tahun dropdown is clicked
+2024-10-03 13:32:55,609 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:32:55,665 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("2010") is inputted
+2024-10-03 13:32:56,729 : INFO : test_homepage_simulasi_kredit_01 : Tahun 2010 is clicked
+2024-10-03 13:32:57,806 : INFO : test_homepage_simulasi_kredit_01 : Warna dropdown is clicked
+2024-10-03 13:32:57,814 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:32:57,866 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("Hitam") is inputted
+2024-10-03 13:32:58,908 : INFO : test_homepage_simulasi_kredit_01 : Warna Hitam is clicked
+2024-10-03 13:32:59,981 : INFO : test_homepage_simulasi_kredit_01 : Kilometer ("50.000") is inputted
+2024-10-03 13:40:17,290 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-03 13:40:17,359 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-03 13:40:17,377 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-03 13:40:18,438 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-03 13:40:18,452 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:40:18,525 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword ("Dai") is inputted
+2024-10-03 13:40:18,537 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-03 13:40:18,591 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-03 13:40:19,652 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is clicked
+2024-10-03 13:40:19,664 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:40:19,734 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("Xen") is inputted
+2024-10-03 13:40:19,769 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is found
+2024-10-03 13:40:19,837 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is clicked
+2024-10-03 13:40:20,891 : INFO : test_homepage_simulasi_kredit_01 : Tipe dropdown is clicked
+2024-10-03 13:40:20,902 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:40:20,963 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("1.0L Li") is inputted
+2024-10-03 13:40:21,010 : INFO : test_homepage_simulasi_kredit_01 : Tipe 1.0L Li is clicked
+2024-10-03 13:40:22,079 : INFO : test_homepage_simulasi_kredit_01 : Transmisi dropdown is clicked
+2024-10-03 13:40:22,095 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:40:22,164 : INFO : test_homepage_simulasi_kredit_01 : Transmisi "Manual" is clicked
+2024-10-03 13:40:23,216 : INFO : test_homepage_simulasi_kredit_01 : Tahun dropdown is clicked
+2024-10-03 13:40:23,224 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:40:23,279 : INFO : test_homepage_simulasi_kredit_01 : Tahun keyword ("2010") is inputted
+2024-10-03 13:40:24,341 : INFO : test_homepage_simulasi_kredit_01 : Tahun 2010 is clicked
+2024-10-03 13:40:25,404 : INFO : test_homepage_simulasi_kredit_01 : Warna dropdown is clicked
+2024-10-03 13:40:25,418 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:40:25,502 : INFO : test_homepage_simulasi_kredit_01 : Warna keyword ("Hitam") is inputted
+2024-10-03 13:40:26,547 : INFO : test_homepage_simulasi_kredit_01 : Warna Hitam is clicked
+2024-10-03 13:40:27,618 : INFO : test_homepage_simulasi_kredit_01 : Kilometer ("50.000") is inputted
+2024-10-03 13:40:28,724 : INFO : test_homepage_simulasi_kredit_01 : Provinsi dropdown is clicked
+2024-10-03 13:40:28,743 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:40:28,827 : INFO : test_homepage_simulasi_kredit_01 : Provinsi keyword ("jak") is inputted
+2024-10-03 13:40:29,879 : INFO : test_homepage_simulasi_kredit_01 : Provinsi Jakarta D.K.I. is clicked
+2024-10-03 13:45:08,488 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-03 13:45:08,564 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-03 13:45:08,583 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-03 13:45:09,642 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-03 13:45:09,657 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:45:09,728 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword ("Dai") is inputted
+2024-10-03 13:45:09,744 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-03 13:45:09,789 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-03 13:45:10,846 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is clicked
+2024-10-03 13:45:10,855 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:45:10,912 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("Xen") is inputted
+2024-10-03 13:45:10,925 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is found
+2024-10-03 13:45:10,974 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is clicked
+2024-10-03 13:45:12,031 : INFO : test_homepage_simulasi_kredit_01 : Tipe dropdown is clicked
+2024-10-03 13:45:12,039 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:45:12,102 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("1.0L Li") is inputted
+2024-10-03 13:45:12,147 : INFO : test_homepage_simulasi_kredit_01 : Tipe 1.0L Li is clicked
+2024-10-03 13:45:13,207 : INFO : test_homepage_simulasi_kredit_01 : Transmisi dropdown is clicked
+2024-10-03 13:45:13,217 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:45:13,259 : INFO : test_homepage_simulasi_kredit_01 : Transmisi "Manual" is clicked
+2024-10-03 13:45:14,314 : INFO : test_homepage_simulasi_kredit_01 : Tahun dropdown is clicked
+2024-10-03 13:45:14,322 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:45:14,374 : INFO : test_homepage_simulasi_kredit_01 : Tahun keyword ("2010") is inputted
+2024-10-03 13:45:15,433 : INFO : test_homepage_simulasi_kredit_01 : Tahun 2010 is clicked
+2024-10-03 13:45:16,498 : INFO : test_homepage_simulasi_kredit_01 : Warna dropdown is clicked
+2024-10-03 13:45:16,510 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:45:16,585 : INFO : test_homepage_simulasi_kredit_01 : Warna keyword ("Hitam") is inputted
+2024-10-03 13:45:17,633 : INFO : test_homepage_simulasi_kredit_01 : Warna Hitam is clicked
+2024-10-03 13:45:18,701 : INFO : test_homepage_simulasi_kredit_01 : Kilometer ("50.000") is inputted
+2024-10-03 13:45:19,766 : INFO : test_homepage_simulasi_kredit_01 : Provinsi dropdown is clicked
+2024-10-03 13:45:19,775 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:45:19,835 : INFO : test_homepage_simulasi_kredit_01 : Provinsi keyword ("jak") is inputted
+2024-10-03 13:45:20,886 : INFO : test_homepage_simulasi_kredit_01 : Provinsi Jakarta D.K.I. is clicked
+2024-10-03 13:45:21,968 : INFO : test_homepage_simulasi_kredit_01 : Kota dropdown is clicked
+2024-10-03 13:45:21,976 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:45:22,027 : INFO : test_homepage_simulasi_kredit_01 : Kota keyword ("pus") is inputted
+2024-10-03 13:45:23,074 : INFO : test_homepage_simulasi_kredit_01 : Kota Jakarta Pusat is clicked
+2024-10-03 13:49:01,268 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-03 13:49:01,368 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-03 13:49:01,382 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-03 13:49:02,445 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-03 13:49:02,459 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:49:02,531 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword ("Dai") is inputted
+2024-10-03 13:49:02,543 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-03 13:49:02,590 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-03 13:49:03,642 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is clicked
+2024-10-03 13:49:03,650 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:49:03,709 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("Xen") is inputted
+2024-10-03 13:49:03,720 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is found
+2024-10-03 13:49:03,763 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is clicked
+2024-10-03 13:49:04,818 : INFO : test_homepage_simulasi_kredit_01 : Tipe dropdown is clicked
+2024-10-03 13:49:04,825 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:49:04,884 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("1.0L Li") is inputted
+2024-10-03 13:49:04,931 : INFO : test_homepage_simulasi_kredit_01 : Tipe 1.0L Li is clicked
+2024-10-03 13:49:05,999 : INFO : test_homepage_simulasi_kredit_01 : Transmisi dropdown is clicked
+2024-10-03 13:49:06,009 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:49:06,058 : INFO : test_homepage_simulasi_kredit_01 : Transmisi "Manual" is clicked
+2024-10-03 13:49:07,112 : INFO : test_homepage_simulasi_kredit_01 : Tahun dropdown is clicked
+2024-10-03 13:49:07,121 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:49:07,175 : INFO : test_homepage_simulasi_kredit_01 : Tahun keyword ("2010") is inputted
+2024-10-03 13:49:08,241 : INFO : test_homepage_simulasi_kredit_01 : Tahun 2010 is clicked
+2024-10-03 13:49:09,295 : INFO : test_homepage_simulasi_kredit_01 : Warna dropdown is clicked
+2024-10-03 13:49:09,303 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:49:09,364 : INFO : test_homepage_simulasi_kredit_01 : Warna keyword ("Hitam") is inputted
+2024-10-03 13:49:10,411 : INFO : test_homepage_simulasi_kredit_01 : Warna Hitam is clicked
+2024-10-03 13:49:11,476 : INFO : test_homepage_simulasi_kredit_01 : Kilometer ("50.000") is inputted
+2024-10-03 13:49:12,537 : INFO : test_homepage_simulasi_kredit_01 : Provinsi dropdown is clicked
+2024-10-03 13:49:12,548 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:49:12,603 : INFO : test_homepage_simulasi_kredit_01 : Provinsi keyword ("jak") is inputted
+2024-10-03 13:49:13,653 : INFO : test_homepage_simulasi_kredit_01 : Provinsi Jakarta D.K.I. is clicked
+2024-10-03 13:49:14,706 : INFO : test_homepage_simulasi_kredit_01 : Kota dropdown is clicked
+2024-10-03 13:49:14,715 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 13:49:14,768 : INFO : test_homepage_simulasi_kredit_01 : Kota keyword ("pus") is inputted
+2024-10-03 13:49:15,825 : INFO : test_homepage_simulasi_kredit_01 : Kota Jakarta Pusat is clicked
+2024-10-03 14:13:30,110 : INFO : test_homepage_simulasi_kredit_01 : Start executing Test Case Homepage Simulasi Kredit - 01
+2024-10-03 14:13:30,209 : INFO : test_homepage_simulasi_kredit_01 : Simulation menu is clicked
+2024-10-03 14:13:30,224 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is found
+2024-10-03 14:13:31,283 : INFO : test_homepage_simulasi_kredit_01 : Merk dropdown is clicked
+2024-10-03 14:13:31,297 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 14:13:31,378 : INFO : test_homepage_simulasi_kredit_01 : Merk keyword ("Dai") is inputted
+2024-10-03 14:13:31,389 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is found
+2024-10-03 14:13:31,433 : INFO : test_homepage_simulasi_kredit_01 : Merk Daihatsu is clicked
+2024-10-03 14:13:32,504 : INFO : test_homepage_simulasi_kredit_01 : Model dropdown is clicked
+2024-10-03 14:13:32,516 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 14:13:32,581 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("Xen") is inputted
+2024-10-03 14:13:32,599 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is found
+2024-10-03 14:13:32,657 : INFO : test_homepage_simulasi_kredit_01 : Model Xenia is clicked
+2024-10-03 14:13:33,710 : INFO : test_homepage_simulasi_kredit_01 : Tipe dropdown is clicked
+2024-10-03 14:13:33,719 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 14:13:33,775 : INFO : test_homepage_simulasi_kredit_01 : Model keyword ("1.0L Li") is inputted
+2024-10-03 14:13:33,818 : INFO : test_homepage_simulasi_kredit_01 : Tipe 1.0L Li is clicked
+2024-10-03 14:13:34,874 : INFO : test_homepage_simulasi_kredit_01 : Transmisi dropdown is clicked
+2024-10-03 14:13:34,880 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 14:13:34,922 : INFO : test_homepage_simulasi_kredit_01 : Transmisi "Manual" is clicked
+2024-10-03 14:13:35,982 : INFO : test_homepage_simulasi_kredit_01 : Tahun dropdown is clicked
+2024-10-03 14:13:35,991 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 14:13:36,040 : INFO : test_homepage_simulasi_kredit_01 : Tahun keyword ("2010") is inputted
+2024-10-03 14:13:37,099 : INFO : test_homepage_simulasi_kredit_01 : Tahun 2010 is clicked
+2024-10-03 14:13:38,156 : INFO : test_homepage_simulasi_kredit_01 : Warna dropdown is clicked
+2024-10-03 14:13:38,165 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 14:13:38,235 : INFO : test_homepage_simulasi_kredit_01 : Warna keyword ("Hitam") is inputted
+2024-10-03 14:13:39,284 : INFO : test_homepage_simulasi_kredit_01 : Warna Hitam is clicked
+2024-10-03 14:13:40,343 : INFO : test_homepage_simulasi_kredit_01 : Kilometer ("50.000") is inputted
+2024-10-03 14:13:41,403 : INFO : test_homepage_simulasi_kredit_01 : Provinsi dropdown is clicked
+2024-10-03 14:13:41,411 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 14:13:41,462 : INFO : test_homepage_simulasi_kredit_01 : Provinsi keyword ("jak") is inputted
+2024-10-03 14:13:42,509 : INFO : test_homepage_simulasi_kredit_01 : Provinsi Jakarta D.K.I. is clicked
+2024-10-03 14:13:43,559 : INFO : test_homepage_simulasi_kredit_01 : Kota dropdown is clicked
+2024-10-03 14:13:43,568 : INFO : test_homepage_simulasi_kredit_01 : Search box is found
+2024-10-03 14:13:43,621 : INFO : test_homepage_simulasi_kredit_01 : Kota keyword ("pus") is inputted
+2024-10-03 14:13:44,663 : INFO : test_homepage_simulasi_kredit_01 : Kota Jakarta Pusat is clicked
+2024-10-03 14:13:47,731 : INFO : test_homepage_simulasi_kredit_01 : Button Hitung Simulasi is clicked
+2024-10-03 14:13:47,773 : INFO : test_homepage_simulasi_kredit_01 : Simulasi Pembiayaan result page is opened
